@@ -636,6 +636,10 @@ xml text: [luc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map01-Maple-and-Co.png?raw=true)
 
+### mas01 Maspero Freres
+xml text: [mas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mas01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mas01-maspero-freres.png?raw=true)
+
 ### mav01 Magasins Victoria
 xml text: [mav01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mav01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mav01-Magasins-Victoria.png?raw=true)
