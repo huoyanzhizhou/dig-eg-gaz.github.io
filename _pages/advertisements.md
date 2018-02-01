@@ -596,6 +596,10 @@ xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation.png?raw=true)
 
+### lau01 Laurens Cigarettes / Le Khedive Company
+xml text: [lau01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lau01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lau01-laurens-cigarettes.png?raw=true)
+
 ### ldb01 Les Diamants Bera
 xml text: [ldb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ldb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldb01-les-diamants-bera.png?raw=true)
