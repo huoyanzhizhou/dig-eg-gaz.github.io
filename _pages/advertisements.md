@@ -816,6 +816,10 @@ xml text: [pos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos03-Peninsular-and-Oriental-S-N-Company.png?raw=true)
 
+### pos04 Peninsular and Oriental S.N. Company
+xml text: [pos04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos04.xml). Text of ship names and dates in the table change.
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos04-Peninsular-and-Oriental-S-N-Company.png?raw=true)
+
 ### pri01 Prince Line
 xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png?raw=true)
