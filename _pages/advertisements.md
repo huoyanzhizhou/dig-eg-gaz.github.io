@@ -416,6 +416,10 @@ xml text: [esr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph.png?raw=true)
 
+### etc02 The Eastern Telegraph Company, Limited
+xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml) (French language)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company.png?raw=true)
+
 ### fpc01 F. Phillips & Co.
 xml text: [fpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fpc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fpc01-f-phillips-co.png?raw=true)
