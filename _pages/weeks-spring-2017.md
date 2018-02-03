@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weeks
-permalink: /weeks/
+title: IFS2116 Fall 2016 Weeks
+permalink: /weeks-spring-2017/
 header:
   image_fullwidth: front-page.jpg
 ---
