@@ -96,6 +96,10 @@ xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [als03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als03.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als03-Austrian-Lloyds-Steam-Navigation.png?raw=true)
 
+### ams01 Samuelson & Sons
+xml text: [ams01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ams01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ams01-a-m-samuelson-sons.png?raw=true)
+
 ### api01 Apiol
 xml text: [api01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/api01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/api01-apiol.png?raw=true)
