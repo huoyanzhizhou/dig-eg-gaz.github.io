@@ -820,6 +820,10 @@ xml text: [pos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pos04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos04.xml). Text of ship names and dates in the table change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos04-Peninsular-and-Oriental-S-N-Company.png?raw=true)
 
+### pos05 Peninsular and Oriental S.N. Company
+xml text: [pos05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos05.xml).
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos05-Peninsular-and-Oriental-S-N-Company.png?raw=true)
+
 ### pri01 Prince Line
 xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png?raw=true)
@@ -843,6 +847,10 @@ xml text: [rbi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### rea01 Royal Exchange Assurance
 xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea01-Royal-Exchange-Assurance.png?raw=true)
+
+### rha01 Royal Exchange Assurance
+xml text: [rha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rha01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rha01-Reisebureau-der-Hamburg-Amerika-Line.png?raw=true)
 
 ### ric01 Royal Insurance Coy
 xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)
@@ -963,6 +971,10 @@ xml text: [tcs02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### tcs03 Thos. Cook & Son
 xml text: [tcs03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs03-Thos-Cook-Son.png?raw=true)
+
+### tcs04 Thos. Cook & Son
+xml text: [tcs04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs04-Thos-Cook-Son.png?raw=true)
 
 ### thc01 Thornes High Class Whiskey
 xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc01.xml)
