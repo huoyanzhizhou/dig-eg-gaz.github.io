@@ -120,13 +120,13 @@ xml text: [bal02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co.png?raw=true)
 
-### boa01 Bon Accord
-xml text: [boa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boa01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/boa01-bon-accord.png?raw=true)
-
 ### bam02 Asia Minor Steamship Co., Ltd.
 xml text: [bam02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam02-asia-minor-steamship.png?raw=true)
+
+### bam03 Summer Trips to Cyprus
+xml text: [bam03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam03-summer-trips-to-cyprus.png?raw=true)
 
 ### bcc01 British Chamber of Commerce
 xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml). Ship names and dates on lines 6 and 9 change.
@@ -171,6 +171,10 @@ xml text: [blm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### blm03 Bibby Line Mail Steamers
 xml text: [blm03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm03.xml). Ship names, weights, dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm03-biddy-line-mail.png?raw=true)
+
+### boa01 Bon Accord
+xml text: [boa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/boa01-bon-accord.png?raw=true)
 
 ### boe01 Bank of Egypt, Limited
 xml text: [boe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boe01.xml)
