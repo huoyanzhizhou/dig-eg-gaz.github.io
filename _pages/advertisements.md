@@ -260,6 +260,10 @@ xml text: [cnc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [cne01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cne01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cne01-comptoir-national-descompte.png?raw=true)
 
+### cne02 Comptoir National D'Escompte
+xml text: [cne02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cne02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cne02-comptoir-national-descompte.png?raw=true)
+
 ### cpc01 Crown Preserved Coal
 xml text: [cpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cpc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cpc01-crown-preserved-coal.png?raw=true)
@@ -388,6 +392,10 @@ xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ems02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems02-emulsion-scott.png?raw=true)
 
+### ems03 Emulsion Scott
+xml text: [ems03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems03-emulsion-scott.png?raw=true)
+
 ### ens01 Express Nile Steamer Co.
 xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ens01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ens01-express-nile-steamer.png?raw=true)
@@ -456,6 +464,10 @@ xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ghc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghc01-gellatly-hankey-co.png?raw=true)
 
+### ghl01 Marseille Grand Hotel du Louvre & Paix
+xml text: [ghl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghl01-marseille-grand-hotel-du-louvre.png?raw=true)
+
 ### gmc01 G. Marcus & Co.
 xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co.png?raw=true)
@@ -515,6 +527,10 @@ xml text: [hjm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hob01 Howies Butter
 xml text: [hob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob01-howies-butter.png?raw=true)
+
+### hob02 Howie & Co.
+xml text: [hob02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob02-howie-co.png?raw=true)
 
 ### hsm01 Howies Sterilized Milk
 xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)
@@ -625,8 +641,12 @@ xml text: [lem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lem01-lemco.png?raw=true)
 
 ### lgo01 Ladies & Gents Outfitting (S. Stein)
-xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)
+xml text: [lgo01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting.png?raw=true)
+
+### lhc01 Lancaster House, Cairo
+xml text: [lhc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lhc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lhc01-lancaster-house-cairo.png?raw=true)
 
 ### lig01 Liniment Géneau
 xml text: [lig01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lig01.xml)
@@ -747,6 +767,10 @@ xml text: [nml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### nml02 The National Mutual Life Association of Australasia, Limited
 xml text: [nml02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml02-national-mutual-life.png?raw=true)
+
+### nrc01 National Residence Cairo
+xml text: [nrc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrc01-national-residence-cairo.png?raw=true)
 
 ### nrp01 Nouveau Remede Purgatif
 xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp01.xml)
@@ -908,6 +932,10 @@ xml text: [sgr03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [sha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sha01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sha01-shannon-system.png?raw=true)
 
+### shl01 Savoy Hotel, Luxor
+xml text: [shl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/shl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/shl01-savoy-hotel-luxor.png?raw=true)
+
 ### sio01 Sun Insurance Office
 xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio01-Sun-Insurance-Office.png?raw=true)
@@ -1011,6 +1039,10 @@ xml text: [vhb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### wam01 Walker & Meimarachi
 xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png?raw=true)
+
+### wam02 Walker & Meimarachi
+xml text: [wam02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam02-Walker-and-Meimarachi.png?raw=true)
 
 ### wbl01 Waterlow Bros. & Layton
 xml text: [wbl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wbl01.xml)
