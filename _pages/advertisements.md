@@ -224,6 +224,10 @@ xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [cct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cct01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cct01-calverts-carbolic.png?raw=true)
 
+### cct02 Calvert's Carbolic Tooth Powder
+xml text: [cct02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cct02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cct02-calverts-carbolic.png?raw=true)
+
 ### cfe01 Credit Franco-Egyptien
 xml text: [cfe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cfe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cfe01-credit-franco-egyptien.png?raw=true)
@@ -251,6 +255,10 @@ xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### clh01 Cigares de la Havane
 xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane.png?raw=true)
+
+### cmh01 Cairo Mena House Hotel
+xml text: [cmh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cmh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cmh01-cairo-mena-house-hotel.png?raw=true)
 
 ### cnc01 Comptoir Financier & Commercial D'Egypte
 xml text: [cnc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cnc01.xml)
@@ -396,6 +404,10 @@ xml text: [ems02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ems03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems03-emulsion-scott.png?raw=true)
 
+### ems04 Emulsion Scott
+xml text: [ems04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems04-emulsion-scott.png?raw=true)
+
 ### ens01 Express Nile Steamer Co.
 xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ens01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ens01-express-nile-steamer.png?raw=true)
@@ -452,6 +464,10 @@ xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [gac02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac02-guardian-assurance-company.png?raw=true)
 
+### gch01 Grand Continental Hotel
+xml text: [gch01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gch01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gch01-grand-continental-hotel.png?raw=true)
+
 ### ggd01 G.G. Drossos & Co.
 xml text: [ggd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ggd01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ggd01-g-g-drossos-co.png?raw=true)
@@ -463,6 +479,10 @@ xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ghc01 Gellatly, Hankey & Co.
 xml text: [ghc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghc01-gellatly-hankey-co.png?raw=true)
+
+### ghk01 Grand Hotel Khartoum
+xml text: [ghk01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghk01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghk01-grand-hotel-khartoum.png?raw=true)
 
 ### ghl01 Marseille Grand Hotel du Louvre & Paix
 xml text: [ghl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghl01.xml)
@@ -932,6 +952,10 @@ xml text: [sgr03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [sha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sha01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sha01-shannon-system.png?raw=true)
 
+### shh01 Shepheard's Hotel
+xml text: [shh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/shh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/shh01-shepheards-hotel.png?raw=true)
+
 ### shl01 Savoy Hotel, Luxor
 xml text: [shl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/shl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/shl01-savoy-hotel-luxor.png?raw=true)
@@ -1027,6 +1051,10 @@ xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### twh01 The Tosh Whiskey
 xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh01-The-Tosh-Whiskey.png?raw=true)
+
+### ueh01 Upper Egypt Hotels
+xml text: [ueh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ueh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ueh01-upper-egypt-hotels.png?raw=true)
 
 ### vdt01 Val de Travers
 xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)
