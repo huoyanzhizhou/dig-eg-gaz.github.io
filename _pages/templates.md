@@ -19,6 +19,12 @@ xml:id="deg-el-agpa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association.png?raw=true)
 
+### American Stocks & Shares
+xml:id="deg-el-amss01"
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/american-stocks-and-shares.xml) table xml:id="deg-ta-amss01"
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/american-stocks-and-shares.png?raw=true)
+
 ### Arrivages a Minet-el-Bassal
 xml:id="deg-el-ameb01" This element seems to be largely repeated from issue to issue, but to change from month to month.
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml) table xml:id="deg-ta-ameb01"

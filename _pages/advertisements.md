@@ -40,6 +40,10 @@ xml text: [aan04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aan05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan05.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan05-Hamburg-Anglo-American-Nile.png?raw=true)
 
+### aas01 Anglo-American Stores
+xml text: [aas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aas01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aas01-anglo-american-stores.png?raw=true)
+
 ### aaw01 Ariston Aerated Waters
 xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png?raw=true)
@@ -488,6 +492,11 @@ xml text: [ghk01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ghl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghl01-marseille-grand-hotel-du-louvre.png?raw=true)
 
+### ghn01 Grand Hotel National
+xml text: [ghn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghn01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghn01-grand-hotel-national.png?raw=true)
+
+
 ### gmc01 G. Marcus & Co.
 xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co.png?raw=true)
@@ -632,6 +641,10 @@ xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [kbs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kbs01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kbs01-kuppers-beer.png?raw=true)
 
+### kbs02 Kupper's Beer
+xml text: [kbs02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kbs02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kbs02-kuppers-beer.png?raw=true)
+
 ### kml01 Khedivial Mail Line
 xml text: [kml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml01-Khedivial-Mail-Line.png?raw=true)
@@ -723,6 +736,10 @@ xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### mmw01 Masters' Military Watch
 xml text: [mmw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mmw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mmw01-masters-military-watch.png?raw=true)
+
+### moe01 Moeris Hotel
+xml text: [moe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/moe01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/moe01-moeris-hotel.png?raw=true)
 
 ### msp01 McLaren's Steam Ploughs
 xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)
@@ -899,6 +916,10 @@ xml text: [rha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ric01 Royal Insurance Coy
 xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric01-Royal-Insurance-Coy.png?raw=true)
+
+### rlj01 Rose's Lime Juice
+xml text: [rlj01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rlj01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rlj01-roses-lime-juice.png?raw=true)
 
 ### rob01 Robinson's Barley
 xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rob01.xml)
