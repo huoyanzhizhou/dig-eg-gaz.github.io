@@ -368,6 +368,10 @@ xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
 
+### eec01 The Egyptian Engineering Co. Ltd.
+xml text: [eec01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec01-egyptian-engineering-co.png?raw=true)
+
 ### eeh01 Eastern Exchange Hotel
 xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png?raw=true)
@@ -901,6 +905,10 @@ xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pwl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl01-Papier-Wlinsi.png?raw=true)
 
+### pwl02 Papier Wlinsi
+xml text: [pwl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl02-Papier-Wlinsi.png?raw=true)
+
 ### rbi01 Reiser & Binder
 xml text: [rbi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rbi01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rbi01-reiser-binder.png?raw=true)
@@ -1009,6 +1017,10 @@ xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [sph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sph01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sph01-savoy-palace-hotel.png?raw=true)
 
+### srg01 Sam Remo Grand Hotel
+xml text: [srg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/srg01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/srg01-san-remo-grand.png?raw=true)
+
 ### ssw01 Siemens Schuckert Werke
 xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png?raw=true)
@@ -1065,6 +1077,10 @@ xml text: [tnh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [toh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/toh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/toh01-the-olympus-hotel.png?raw=true)
 
+### tph01 Tewfik Palace Hotel
+xml text: [tph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tph01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph01-tewfik-palace-hotel.png?raw=true)
+
 ### tsc01 The Seasonable Complaint
 xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint.png?raw=true)
@@ -1076,6 +1092,10 @@ xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ueh01 Upper Egypt Hotels
 xml text: [ueh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ueh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ueh01-upper-egypt-hotels.png?raw=true)
+
+### ufe01 Underwriters' Fire Extinguisher -- Thos. Hinshelwood & Co.
+xml text: [ufe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ufe01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ufe01-underwriters-fire-extinguisher.png?raw=true)
 
 ### vdt01 Val de Travers
 xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)
