@@ -43,7 +43,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 9|February 25, 1907|March 2, 1907|[Kevin Ooten](https://github.com/kmooten)||||
 10|March 4, 1907|March 9, 1907|[Evan Ore](https://github.com/evanore)||||
 11|March 11, 1907|March 16, 1907|[Carter Pfost](https://github.com/44Silver4)||||
-12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/FlameW)||||
+12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/FlameWo)||||
 13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/gporter1)||||
 14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|7|2|2|
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)||||
