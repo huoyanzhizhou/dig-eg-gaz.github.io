@@ -54,7 +54,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 20|May 13, 1907|May 18, 1907|[Sami Squires](https://github.com/samisquires)||||
 21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)||||
 22|May 27, 1907|June 1, 1907|[Kayla Young](https://github.com/kaylayoung9)||||
-23|June 3, 1907|June 8, 1907|[JJ Zambito](https://github.com/jjzambito)||||
 24|June 10, 1907|June 15, 1907|[Alex Aguila](https://github.com/alexis11224)||||
 25|June 17, 1907|June 22, 1907|[Alison DeGroat](https://github.com/laneydegroat)||||
 26|June 24, 1907|June 29, 1907|[Tiffany Medina](https://github.com/tdm16g)||||
