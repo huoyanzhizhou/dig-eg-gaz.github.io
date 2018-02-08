@@ -41,6 +41,11 @@ xml:id="deg-el-acms01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special.png?raw=true)
 
+### Bourse du Caire
+xml:id="deg-el-bduc01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/bourse-du-caire.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bourse-du-caire.png?raw=true)
+
 ### Bourse Khediviale
 xml:id="deg-el-bokh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/bourse-khediviale.xml)
 
@@ -216,6 +221,11 @@ This table varies in lines from day to day. Certain days of the week contain wee
 xml:id="deg-el-rsco01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/resume-de-la-situation-cotonniere.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-de-la-situation-cotonniere.png?raw=true)
+
+### Resume Mouvement Coton
+xml:id="deg-el-rmco01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/resume-mouvement-coton.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-mouvement-coton.png?raw=true)
 
 ### Share list
 xml:id="deg-el-shli01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml) Table xml:id="deg-ta-shli01"
