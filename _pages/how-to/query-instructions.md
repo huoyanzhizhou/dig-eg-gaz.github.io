@@ -10,6 +10,13 @@ header:
 ## Objective
 We are digitizing the *Egyptian Gazette* to make its contents searchable. Plain text can be searched with keywords, but TEI-XML encoded text can be searched in more precise ways. For example, if you search for "London" in plain text, you would find hundreds and hundreds of repeated references to London in ads and tables. TEI-XML allows you to search for "London" in specific parts of the newspaper: page 3, for example, or local news. The two main query (search) languages for XML are [XPath and XQuery](https://www.w3.org/TR/xpath-datamodel-30/). These instructions focus on XPath as used in the Oxygen XML editor.
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## 1. Setting up queries in the Oxygen XML editor
 
 ### Searching a single file

@@ -7,6 +7,12 @@ header:
   image_fullwidth: masthead.jpg
 ---
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ## 1. Fork the repository
 

@@ -300,6 +300,10 @@ xml text: [csr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [cst01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst01-Cairo-Sewage-Transport.png?raw=true)
 
+### cst02 Cairo Sewage Transport Co.
+xml text: [cst02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst02-Cairo-Sewage-Transport.png?raw=true)
+
 ### cun01 Cunard Line
 xml text: [cun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun01-Cunard-Line.png?raw=true)

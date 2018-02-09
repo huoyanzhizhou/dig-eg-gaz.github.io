@@ -9,6 +9,13 @@ header:
 ---
 Tableau is a powerful tool that can be used to view, manipulate, explore, and analyze data. For the purposes of this course, Tableau is useful to engage with the results from our Xpath queries.
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## Installation:
 1. Your FSU emails allow you free access to Tableau’s full Desktop suite,
 download here: (https://www.tableau.com/academic)

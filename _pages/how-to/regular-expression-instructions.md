@@ -10,6 +10,13 @@ Regular expressions (regex) is a very useful means of working with serial data w
 
 [Regexr](regexr.com) is a great place to learn about and try out regular expressions.
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## Using regex in Atom
 
 To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+,` replace with `<persName>$&</persName>`.

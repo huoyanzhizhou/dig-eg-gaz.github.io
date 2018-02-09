@@ -10,6 +10,13 @@ header:
 ## Objective
 This lesson explains how to turn images of text into editable files. Use this technique to work with free text wherever you encounter it in the *Egyptian Gazette*. Do not use this technique to work with text that has been [templated](https://dig-eg-gaz.github.io/how-to/templating-instructions/). Once you've transformed OCRed text and performed basic corrections, it will be ready for [TEI-XML markup](https://dig-eg-gaz.github.io/how-to/tagging-people-and-places-instructions/).
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## 1. Transform image into Text
 
 ### If you are using Windows:

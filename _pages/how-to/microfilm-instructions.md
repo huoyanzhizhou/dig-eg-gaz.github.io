@@ -9,6 +9,13 @@ header:
 ## Objective
 This tutorial explains how to produced high-quality, [OCR](https://dig-eg-gaz.github.io/how-to/OCR-instructions/)-readable images from microfilm of a historical newspaper. **Note:** Library staff may offer you some help in using the microfilm readers, but they are not responsible to do the work for you. This tutorial explains everything you need to know to do this task.
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## 1. Setup
 1. Get film NP 486 for the appropriate month and year from the reserve desk in the basement in Strozier. You can sign it out for two hours. Each film contains three months' worth of issues. You might have to scroll through a lot of film to find your date.
 2. Log on to one of the six microfilm-enabled computers, and open the "Microform PowerScan/PowerScan" program. Indicate that you are using microfilm or, if you are using PowerScan 2200, select the "Expert User + New Features" mode so you can change the resolution. Thread the film into the microfilm reader (a "ScanPro 1000/2200"), carefully following the threading route mapped on the table or the machine itself. Run a bit of film through the machine until you begin to see page images--the first foot of film is only black.

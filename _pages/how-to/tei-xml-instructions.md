@@ -10,6 +10,13 @@ header:
 ## Objective
 These instructions guide you in transforming your plain text page files into a marked-up xml document that conforms to the standards of [TEI](http://www.tei-c.org) (the Text Encoding Initiative).
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## 1. Set up your XML editor
 Download the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html). After 30 days, you might find [ways](https://10minutemail.com/) to renew your trial access, or simply purchase Oxygen using their [academic and educational discount](http://oxygenxml.com/academic/)).
 
