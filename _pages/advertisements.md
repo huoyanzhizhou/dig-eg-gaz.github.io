@@ -776,6 +776,10 @@ xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [nbe02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe02-national-bank-of-egypt.png?raw=true)
 
+### nbm01 North British & Mercantile
+xml text: [nbm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbm01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbm01-north-british-mercantile.png?raw=true)
+
 ### ncs01 Nile Cold Storage
 xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage.png?raw=true)
@@ -1147,6 +1151,10 @@ xml text: [wha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### whc01 White Horse Cellar
 xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar.png?raw=true)
+
+### whc02 Mackie's White Horse Cellar Whiskey
+xml text: [whc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc02-White-Horse-Cellar.png?raw=true)
 
 ### who01 Windsor Hotel
 xml text: [who01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/who01.xml)
