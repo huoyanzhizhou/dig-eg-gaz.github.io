@@ -368,10 +368,6 @@ xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
 
-### eec01 The Egyptian Engineering Co. Ltd.
-xml text: [eec01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec01-egyptian-engineering-co.png?raw=true)
-
 ### eeh01 Eastern Exchange Hotel
 xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png?raw=true)
@@ -500,10 +496,13 @@ xml text: [ghl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ghn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghn01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghn01-grand-hotel-national.png?raw=true)
 
-
 ### gmc01 G. Marcus & Co.
 xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co.png?raw=true)
+
+### gnh01 The George Nungovich Hotels
+xml text: [gnh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gnh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gnh01-george-nungovich-hotels.png?raw=true)
 
 ### gwy01 Gwynne’s Limited
 xml text: [gwy01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gwy01.xml)
@@ -544,6 +543,10 @@ xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hdi02 Halls Distemper
 xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi02-Halls-Distemper.png?raw=true)
+
+### hdn01 Hotel du Nil, Cairo
+xml text: [hdn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdn01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdn01-hotel-du-nil-cairo.png?raw=true)
 
 ### hem01 Hemagene Tailleur
 xml text: [hem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hem01.xml)
@@ -604,6 +607,14 @@ xml text: [ish01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### isr01 International Sleeping and Restaurant Cars Company
 xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr01-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
+
+### jab01 Jessop & Appleby Bros Ltd.
+xml text: [jab01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jab01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jab01-jessop-appleby-bros.png?raw=true)
+
+### jab02 Jessop & Appleby / The Egyptian Engineering Co. Ltd.
+xml text: [jab02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jab02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jab02-egyptian-engineering-co.png?raw=true)
 
 ### jbc01 John B Caffari’s Economical Stores
 xml text: [jbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc01.xml)
@@ -731,7 +742,7 @@ xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mil02 Milner's Safes
 xml text: [mil02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil02.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil02-milners-safes.jpg?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil02-milners-safes.png?raw=true)
 
 ### mma01 Messageries Maritimes
 xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)
@@ -1025,6 +1036,10 @@ xml text: [srg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png?raw=true)
 
+### sub01 Sulzer Brothers
+xml text: [sub01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/subscriptions01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sub01-sulzer-brothers.png?raw=true)
+
 ### sun01 Sunlight
 xml text: [sun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun01-Sunlight.png?raw=true)
@@ -1084,6 +1099,10 @@ xml text: [tph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### tsc01 The Seasonable Complaint
 xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint.png?raw=true)
+
+### tss01 Thomas & Sons
+xml text: [tss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tss01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tss01-thomas-sons.png?raw=true)
 
 ### twh01 The Tosh Whiskey
 xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)
