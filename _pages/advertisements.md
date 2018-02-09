@@ -60,6 +60,10 @@ xml text: [abw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [adr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr01-Au-de-Rouge.png?raw=true)
 
+### adr02 Au de Rouge
+xml text: [adr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr02-Au-de-Rouge.png?raw=true)
+
 ### aeb01 The Anglo-Egyptian Bank
 xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb01-The-Anglo-Egyptian-Bank.png?raw=true)
@@ -528,6 +532,10 @@ xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr01-Hotel-Beau-Rivage.png?raw=true)
 
+### hbr02 Hotel Beau-Rivage
+xml text: [hbr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr02-Hotel-Beau-Rivage.png?raw=true)
+
 ### hcp01 Paris Hotel Continental
 xml text: [hcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcp01-paris-hotel-continental.png?raw=true)
@@ -571,6 +579,14 @@ xml text: [hob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hob02 Howie & Co.
 xml text: [hob02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob02-howie-co.png?raw=true)
+
+### hob03 Howies Butter
+xml text: [hob03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob03-howies-butter.png?raw=true)
+
+### hse01 Hotel Semiramis
+xml text: [hse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hse01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hse01-hotel-semiramis.png?raw=true)
 
 ### hsm01 Howies Sterilized Milk
 xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)
@@ -1064,6 +1080,10 @@ xml text: [sun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas01-T-A-Spartali-Co.png?raw=true)
 
+### tas02 Carpets T. A. Spartali & Co.
+xml text: [tas02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas02-T-A-Spartali-Co.png?raw=true)
+
 ### tce01 Telephone Company of Egypt, Limited
 xml text: [tce01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce01-Telephone-Company-of-Egypt-Limited.png?raw=true)
@@ -1115,6 +1135,14 @@ xml text: [tss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### twh01 The Tosh Whiskey
 xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh01-The-Tosh-Whiskey.png?raw=true)
+
+### twh02 The Tosh Whiskey
+xml text: [twh02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh02-The-Tosh-Whiskey.png?raw=true)
+
+### tyr01 Tyrol
+xml text: [tyr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tyr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tyr01-tyrol.png?raw=true)
 
 ### ueh01 Upper Egypt Hotels
 xml text: [ueh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ueh01.xml)
