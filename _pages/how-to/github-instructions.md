@@ -10,6 +10,13 @@ header:
 ## Objective
 We will manage our digitization of the Egyptian Gazette using GitHub. This tutorial gives you instructions about how to submit your own work to our shared repositories.
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## 1. What is GitHub?
 GitHub is a tool to manage versioning and collaboration in coding projects large and small. It's built on [git](https://en.wikipedia.org/wiki/Git) software, and offers a bunch of useful social and communication tools in its user interface. Each of us will create an individual account where we'll store and refine our work until it's ready to upload to the [dig-eg-gaz organization repositories](https://github.com/dig-eg-gaz).
 
