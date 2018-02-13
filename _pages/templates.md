@@ -211,6 +211,10 @@ xml:id="deg-el-rrat01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/ramleh-railway-alexandria-tramway.png?raw=true)
 
+xml:id="deg-el-rrat02" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-tramway.xml) Table xml:id="deg-ta-rrat02"
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-tramway.png?raw=true)
+
 ### Reuter's Telegrams
 xml:id="deg-el-reut01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
 This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear. Table xml:id="deg-ta-reut01"
