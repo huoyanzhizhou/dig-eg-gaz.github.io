@@ -41,11 +41,10 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 7|February 11, 1907|February 16, 1907|[Kelsey Meyer](https://github.com/km16h)||||
 8|February 18, 1907|February 23, 1907|[Faith Northcutt](https://github.com/fnorthcutt)||||
 9|February 25, 1907|March 2, 1907|[Kevin Ooten](https://github.com/kmooten)||||
-10|March 4, 1907|March 9, 1907|[Evan Ore](https://github.com/evanore)||||
 11|March 11, 1907|March 16, 1907|[Carter Pfost](https://github.com/44Silver4)||||
 12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/FlameWo)||||
 13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/gporter1)||||
-14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|7|2|2|
+14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|20|2|9|
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)||||
 16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)||||
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/Claudia5)||||
@@ -53,7 +52,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 19|May 6, 1907|May 11, 1907|[Spencer Smith](https://github.com/spencer-R-smith)||||
 20|May 13, 1907|May 18, 1907|[Sami Squires](https://github.com/samisquires)||||
 21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)||||
-22|May 27, 1907|June 1, 1907|[Kayla Young](https://github.com/kaylayoung9)||||
+23|June 3, 1907|June 8, 1907|[Evan Ore](https://github.com/evanore)||||
 24|June 10, 1907|June 15, 1907|[Alex Aguila](https://github.com/alexis11224)||||
 25|June 17, 1907|June 22, 1907|[Alison DeGroat](https://github.com/laneydegroat)||||
 26|June 24, 1907|June 29, 1907|[Tiffany Medina](https://github.com/tdm16g)||||

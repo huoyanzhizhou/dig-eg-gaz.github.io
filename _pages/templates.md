@@ -237,6 +237,11 @@ xml:id="deg-el-stsh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares.png?raw=true)
 
+### Stocks and Shares Alexandria Bourse
+xml:id="deg-el-ssab01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares-alexandria-bourse.xml) Table xml:id="deg-ta-ssab01"
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares-alexandria-bourse.png?raw=true)
+
 ### Tarif d'Exportation
 xml:id="deg-el-tdex01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/tarif-dexportation.xml) Table xml:id="deg-ta-tdex01"
 
