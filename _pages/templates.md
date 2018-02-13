@@ -36,6 +36,10 @@ xml:id="deg-el-adcm01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png?raw=true)
 
+xml:id="deg-el-adcm02" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-02.xml) table xml:id="deg-ta-adcm01"
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png?raw=true)
+
 ### Association des Courtiers en Marchandises (Service Special)
 xml:id="deg-el-acms01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-service-special.xml)
 
