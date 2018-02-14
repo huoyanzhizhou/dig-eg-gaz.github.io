@@ -11,7 +11,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 ---|---|---|---|---|---|---|---
 7|February 13, 1905|February 18, 1905|[India Anderson](https://github.com/Indiaa)||||
 29|July 17, 1905|July 22, 1905|[Daniel Arenas](https://github.com/Daniel1815)||||
-4|January 15, 1906|January 20, 1906|[Parker Beasley](https://github.com/ParkerB21)||||
+4|January 22, 1906|January 27, 1906|[Parker Beasley](https://github.com/ParkerB21)||||
 10|March 5, 1906|March 10, 1906|[Ian Bolger](https://github.com/ieb17)||||
 13|March 26, 1906|March 31, 1906|[Hannah Bridges](https://github.com/hlb17)||||
 24|June 11, 1906|June 16, 1906|[Amy Lee Brown](https://github.com/amyleebrown)||||

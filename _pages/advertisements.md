@@ -512,6 +512,10 @@ xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [gnh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gnh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gnh01-george-nungovich-hotels.png?raw=true)
 
+### gok01 Gordon Hotel, Khartoum
+xml text: [gok01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gok01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gok01-gordon-hotel-khartoum.png?raw=true)
+
 ### gwy01 Gwynne’s Limited
 xml text: [gwy01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gwy01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gwy01-Gwynnes-Limited.png?raw=true)
@@ -591,6 +595,10 @@ xml text: [hse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hsm01 Howies Sterilized Milk
 xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hsm01-Howies-Sterilized-Milk.png?raw=true)
+
+### hum01 Humber, Limited
+xml text: [hum01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hum01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hum01-humber-limited.png?raw=true)
 
 ### icc01 Ind Coope Co Ltd.
 xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc01.xml)
