@@ -348,6 +348,10 @@ xml text: [deb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [dix01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dix01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dix01-dixon-bros.png?raw=true)
 
+### dix02 Dixon Bros. & Hutchinson
+xml text: [dix02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dix02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dix02-dixon-bros.png?raw=true)
+
 ### dlc01 Dr Le Clerc's Pills
 xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc01-dr-le-clercs-pills.png?raw=true)
@@ -375,6 +379,18 @@ xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### edl01 Egyptian Delta Light Railways Co., Limited
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
+
+### eec01 Jessop & Appleby Bros Ltd. / The Egyptian Engineering Co. Ltd.
+xml text: [eec01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec01-jessop-appleby-bros.png?raw=true)
+
+### eec02 Jessop & Appleby / The Egyptian Engineering Co. Ltd.
+xml text: [eec02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec02-egyptian-engineering-co.png?raw=true)
+
+### eec03 Midland Railway / The Egyptian Engineering Co. Ltd.
+xml text: [eec03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec03-egyptian-engineering-co.png?raw=true)
 
 ### eeh01 Eastern Exchange Hotel
 xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
@@ -452,13 +468,13 @@ xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml) (French language)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company.png?raw=true)
 
+### fmh01 Foster, Mason & Harvey
+xml text: [fmh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fmh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fmh01-foster-mason-harvey.png?raw=true)
+
 ### fpc01 F. Phillips & Co.
 xml text: [fpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fpc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fpc01-f-phillips-co.png?raw=true)
-
-### fus01 Fussell’s Cream
-xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream.png?raw=true)
 
 ### fre01 Freskel
 xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre01.xml)
@@ -467,6 +483,10 @@ xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### fre02 Freskel
 xml text: [fre02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre02-freskel.png?raw=true)
+
+### fus01 Fussell’s Cream
+xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream.png?raw=true)
 
 ### gac01 Guardian Assurance Company Limited
 xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)
@@ -1069,7 +1089,7 @@ xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png?raw=true)
 
 ### sub01 Sulzer Brothers
-xml text: [sub01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/subscriptions01.xml)
+xml text: [sub01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sub01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sub01-sulzer-brothers.png?raw=true)
 
 ### sun01 Sunlight
@@ -1159,6 +1179,10 @@ xml text: [ueh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ufe01 Underwriters' Fire Extinguisher -- Thos. Hinshelwood & Co.
 xml text: [ufe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ufe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ufe01-underwriters-fire-extinguisher.png?raw=true)
+
+### vcw01 Victoria Carriage Works
+xml text: [vcw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vcw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vcw01-victoria-carriage-works.png?raw=true)
 
 ### vdt01 Val de Travers
 xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)
