@@ -30,8 +30,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 48|November 26, 1906|December 1, 1906|[Hailey Ensor](https://github.com/haileyensor)||||
 49|December 3, 1906|December 8, 1906|[Kendra Evers](https://github.com/EversK)||||
 50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)||||
-51|December 17, 1906|December 22, 1906|[Kimber Fleming](https://github.com/kdf15)||||
-52|December 24, 1906|December 29, 1906|[Jake Ginsbourger](https://github.com/JakeGins)||||
 1|December 31, 1906|January 5, 1907|[Kevin Hernandez](https://github.com/kevnandez)||||
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)||||
 3|January 14, 1907|January 19, 1907|[Ty Jarmon](https://github.com/tyjarmon)||||
@@ -48,7 +46,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)||||
 16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)||||
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/Claudia5)|3|||
-18|April 29, 1907|May 4, 1907|[Max Sherman](https://github.com/)||||
 19|May 6, 1907|May 11, 1907|[Spencer Smith](https://github.com/spencer-R-smith)||||
 20|May 13, 1907|May 18, 1907|[Sami Squires](https://github.com/samisquires)|3|||
 21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)||||
