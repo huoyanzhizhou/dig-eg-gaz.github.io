@@ -6,7 +6,7 @@ header:
   image_fullwidth: front-page.jpg
 ---
 Dates available with completion status:
-<iframe src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="150%" height="350"></iframe>
+<iframe src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="150%" height="500"></iframe>
 
 ### Key
 - 1 (blue), `plain text box`: complete, corrected issue
