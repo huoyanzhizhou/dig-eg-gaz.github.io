@@ -804,6 +804,10 @@ xml text: [mmw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [moe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/moe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/moe01-moeris-hotel.png?raw=true)
 
+### mol01 The Molassine Company
+xml text: [mol01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mol01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mol01-molassine.png?raw=true)
+
 ### msp01 McLaren's Steam Ploughs
 xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/msp01-mclarens-steam-ploughs.png?raw=true)
