@@ -392,6 +392,10 @@ xml text: [eec02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [eec03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec03-egyptian-engineering-co.png?raw=true)
 
+### eec04 Pulsometer / The Egyptian Engineering Co. Ltd.
+xml text: [eec04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eec04-egyptian-engineering-co.png?raw=true)
+
 ### eeh01 Eastern Exchange Hotel
 xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png?raw=true)
