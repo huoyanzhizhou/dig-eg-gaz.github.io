@@ -420,6 +420,10 @@ xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ell03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell03-Ellermans.png?raw=true)
 
+### ell04 The Papayanni Line
+xml text: [ell04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell04.xml). Dates, ships and destinations in third paragraph vary.
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell04-The-Papayanni-Line.png?raw=true)
+
 ### emp01 English Made Petroleum Engines
 xml text: [emp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/emp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/emp01-english-made-petroleum-engines.png?raw=true)
@@ -915,10 +919,6 @@ xml text: [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### orm02 Orient-Royal Mail
 xml text: [orm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm02.xml)  Outwards/homewards ship names and sailing dates change. Variant of opl01.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm02-orient-royal-mail.png?raw=true)
-
-### pap01 The Papyanni Line
-xml text: [pap01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap01.xml). Dates, ships and destinations vary in third paragraph.
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pap01-The-Papyanni-Line.png?raw=true)
 
 ### pdd01 Pilules du Docteur Dehaut
 xml text: [pdd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd01.xml)
