@@ -1117,11 +1117,11 @@ xml text: [sun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun03-sunlight.png?raw=true)
 
 ### tas01 T. A. Spartali & Co.
-xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as01.xml)
+xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/as01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas01-T-A-Spartali-Co.png?raw=true)
 
 ### tas02 Carpets T. A. Spartali & Co.
-xml text: [tas02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as02.xml)
+xml text: [tas02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/as02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas02-T-A-Spartali-Co.png?raw=true)
 
 ### tce01 Telephone Company of Egypt, Limited
