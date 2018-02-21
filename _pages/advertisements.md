@@ -444,6 +444,10 @@ xml text: [ems03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ems04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems04.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems04-emulsion-scott.png?raw=true)
 
+### ems05 Emulsion Scott - LES BÉBÉS DÉPÉRISSENT TOUT COMME LES FLEURS!
+xml text: [ems05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems05.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems05-emulsion-scott.png?raw=true)
+
 ### ens01 Express Nile Steamer Co.
 xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ens01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ens01-express-nile-steamer.png?raw=true)
