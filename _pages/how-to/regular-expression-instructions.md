@@ -8,7 +8,7 @@ header:
 ---
 Regular expressions (regex) is a very useful means of working with serial data which repeats similar information using similar formats.
 
-[Regexr](regexr.com) is a great place to learn about and try out regular expressions.
+[Regexr](https://regexr.com/) is a great place to learn about and try out regular expressions.
 
 <div class="panel radius" markdown="1">
 **Contents**
