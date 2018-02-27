@@ -26,7 +26,8 @@ xml:id="deg-el-amss01"
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/american-stocks-and-shares.png?raw=true)
 
 ### Arrivages a Minet-el-Bassal
-xml:id="deg-el-ameb01" This element seems to be largely repeated from issue to issue, but to change from month to month.
+This table lists the amount of cotton, cotton seed, and beans arriving on each day of the same month of the _previous_ year. The table changes only twelve times per year, so can usually be copied wholesale.
+- xml:id="deg-el-ameb01"
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml) table xml:id="deg-ta-ameb01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal.png?raw=true)
