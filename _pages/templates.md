@@ -21,14 +21,14 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Association des Courtiers en Marchandises
 - Locate using the xml:id `deg-el-adcm01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
-- Table(s): Locate using the xml:id `deg-ta-adcm01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-adcm01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png)
 
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)|
 
 - Locate using the xml:id `deg-el-adcm02`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-02.xml)
-- Table(s): Locate using the xml:id `deg-ta-adcm01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-adcm01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02_tn.jpg?raw=true)
@@ -43,7 +43,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Coton
 - Locate using the xml:id `deg-el-cotn01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coton.xml)
-- Table(s): Locate using the xml:id `deg-ta-cotn01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-cotn01`
 - [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton_tn.jpg?raw=true)
@@ -51,7 +51,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Cotons
 - Locate using the xml:id `deg-el-ctns01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cotons.xml)
-- Table(s): Locate using the xml:id `deg-ta-ctns01`, `deg-ta-ctns02`
+- Locate internal table(s) using the xml:id(s) `deg-ta-ctns01`, `deg-ta-ctns02`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons_tn.jpg?raw=true)
@@ -59,7 +59,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Derniere Heure
 - Locate using the xml:id `deg-el-dehe1`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/derniere-heure.xml)
-- Table(s): Locate using the xml:id `deg-ta-dehe1`
+- Locate internal table(s) using the xml:id(s) `deg-ta-dehe1`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure_tn.jpg?raw=true)
@@ -74,7 +74,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Primes des Contrats
 - Locate using the xml:id `deg-el-pdco01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml)
-- Table(s): Locate using the xml:id `deg-ta-pdco01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-pdco01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats.png)
 - *Note*: It seems that the figures in this table are identical in some consecutive issues.
 
@@ -110,7 +110,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Alexandria General Produce Association
 - Locate using the xml:id `deg-el-agpa01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-general-produce.xml)
-- Table(s): Locate using the xml:id `deg-ta-agpa01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-agpa01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association_tn.jpg?raw=true)
@@ -119,7 +119,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 - *Note*: This table lists the amount of cotton, cotton seed, and beans arriving on each day of the same month of the _previous_ year. The table changes only twelve times per year, so can usually be copied wholesale.
 - Locate using the xml:id `deg-el-ameb01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml)
-- Table(s): Locate using the xml:id `deg-ta-ameb01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-ameb01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal_tn.jpg?raw=true)
@@ -136,7 +136,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Coals
 - Locate using the xml:id `deg-el-coal01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coals.xml)
-- Table(s): Locate using the xml:id `deg-ta-coal01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-coal01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coals.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coals_tn.jpg?raw=true)
@@ -144,14 +144,14 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Egyptian Markets, Limited
 - Locate using the xml:id `deg-el-egml01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml)
-- Table(s): Locate using the xml:id `deg-ta-egml01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-egml01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-markets-limited.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-markets-limited_tn.jpg?raw=true)
 
 ### Egyptian Mining Market
 - Locate using the xml:id `deg-el-egmm01`
-- Table(s): Locate using the xml:id `deg-ta-egmm01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-egmm01`
 - [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-mining-market.xml)
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png)
 - It seems that the figures in this table are identical in some consecutive issues.
@@ -170,7 +170,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Nolis
 - Locate using the xml:id `deg-el-noli01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/nolis.xml)
-- Table(s): Locate using the xml:id `deg-ta-noli01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-noli01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis_tn.jpg?raw=true)
@@ -178,7 +178,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Tarif d'Exportation
 - Locate using the xml:id `deg-el-tdex01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/tarif-dexportation.xml)
-- Table(s): Locate using the xml:id `deg-ta-tdex01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-tdex01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/tarif-dexportation.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/tarif-dexportation_tn.jpg?raw=true)
@@ -190,7 +190,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### American Stocks & Shares
 - Locate using the xml:id `deg-el-amss01`
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/american-stocks-and-shares.xml)
-- Table(s): Locate using the xml:id `deg-ta-amss01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-amss01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/american-stocks-and-shares.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/american-stocks-and-shares_tn.jpg?raw=true)
@@ -209,7 +209,8 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bourse-khediviale_tn.jpg?raw=true)
 
-*See also variant* (prepared by Brett Crawford): - Locate using the xml:id `deg-el-clbk01`
+*See also variant* (prepared by Brett Crawford):
+- Locate using the xml:id `deg-el-clbk01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cloture-de-la bourse-khediviale.xml)
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cloture-de-la-bourse-khediviale.jpg)
 
@@ -218,7 +219,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### London Stock Exchange
 - Locate using the xml:id `deg-el-lsex01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/london-stock-exchange.xml)
-- Table(s): Locate using the xml:id `deg-ta-lsex01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-lsex01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/london-stock-exchange.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/london-stock-exchange_tn.jpg?raw=true)
@@ -226,7 +227,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Share List
 - Locate using the xml:id `deg-el-shli01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml)
-- Table(s): Locate using the xml:id `deg-ta-shli01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-shli01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list_tn.jpg?raw=true)
@@ -234,7 +235,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Stocks and Shares
 - Locate using the xml:id `deg-el-stsh01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares.xml)
-- Table(s): Locate using the xml:id `deg-ta-stsh01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-stsh01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares_tn.jpg?raw=true)
@@ -242,7 +243,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Stocks and Shares Alexandria Bourse
 - Locate using the xml:id `deg-el-ssab01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares-alexandria-bourse.xml)
-- Table(s): Locate using the xml:id `deg-ta-ssab01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-ssab01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares-alexandria-bourse.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares-alexandria-bourse_tn.jpg?raw=true)
@@ -250,7 +251,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### Telegrammes Havas
 - Locate using the xml:id `deg-el-teha01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/telegramme-havas.xml)
-- Table(s): Locate using the xml:id `deg-ta-teha01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-teha01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/telegramme-havas.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/telegramme-havas_tn.jpg?raw=true)
@@ -258,7 +259,7 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 ### To-day's Exchange quotations
 - Locate using the xml:id `deg-el-tdeq01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml)
-- Table(s): Locate using the xml:id `deg-ta-tdeq01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-tdeq01`
 - *Note*: This element often contains only a few changes from day to day.
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png)
 
@@ -267,9 +268,9 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 # IV Non-Financial
 
 ### Calendar of Coming Events
-element="comingEvents`
+- Locate using the element `comingEvents`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml)
-- Table(s): Locate using the xml:id `deg-ta-coce01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-coce01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events_tn.jpg?raw=true)
@@ -277,7 +278,7 @@ element="comingEvents`
 ### Calendar of the Week
 - Locate using the xml:id `deg-el-cotw01`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)
-- Table(s): Locate using the xml:id `deg-ta-cotw01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-cotw01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week_tn.jpg?raw=true)
@@ -326,7 +327,7 @@ element="comingEvents`
 ### Weekly Postal Table
 - Locate using the xml:id `deg-el-wept01`
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/weekly-postal-table.xml) (produced by John White)
-- Table(s): Locate using the xml:id `deg-ta-wept01`
+- Locate internal table(s) using the xml:id(s) `deg-ta-wept01`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/weekly-postal-table.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/weekly-postal-table_tn.jpg?raw=true)
@@ -349,7 +350,7 @@ element="comingEvents`
 
 - Locate using the xml:id `deg-el-rrat02`
 - Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-tramway.xml)
-- Table(s): Locate using the xml:id `deg-ta-rrat02`
+- Locate internal table(s) using the xml:id(s) `deg-ta-rrat02`
 - [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-tramway.png)
 
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-tramway_tn.jpg?raw=true)
