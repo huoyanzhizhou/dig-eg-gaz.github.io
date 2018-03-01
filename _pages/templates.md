@@ -80,11 +80,10 @@ xml:id `deg-el-pdco01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 
 ## Reuter's Telegrams
 
-xml:id `deg-el-reut01`
-Table xml:id `deg-ta-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
+xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
 ---|---
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams_tn.jpg?raw=true)|**Notes**:This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png)|
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
 
 ## Resume de la Situation Cotonniere
 
