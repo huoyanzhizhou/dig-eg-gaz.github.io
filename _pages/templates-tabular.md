@@ -19,17 +19,17 @@ Many elements in the *Egyptian Gazette* were produced using boilerplates. This p
 - see also [Marche de Minet el Bassal](https://dig-eg-gaz.github.io/templates/#marche-de-minet-el-bassal), [Nolis](https://dig-eg-gaz.github.io/templates/#nolis)
 
 ## Association des Courtiers en Marchandises
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)|[Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png)
-Locate using the xml:id `deg-el-adcm01`|Locate internal table(s) using the xml:id(s) `deg-ta-adcm01`
-Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
+xml:id `deg-el-adcm01`|[XML template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
+---|---
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)|Notes:
+[Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png)|Locate internal table(s) using the  xml:id`deg-ta-adcm01`
+
 
 ### Variant 1
-- Locate using the xml:id `deg-el-adcm02`
-- Template: [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-02.xml)
-- Locate internal table(s) using the xml:id(s) `deg-ta-adcm01`
-- [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)
-
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02_tn.jpg?raw=true)
+xml:id `deg-el-adcm02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-02.xml)
+---|---
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02_tn.jpg?raw=true)|Notes:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)|Locate internal table(s) using the xml:id `deg-ta-adcm01`
 
 ### Variant 2 (Service Special)
 - Locate using the xml:id `deg-el-acms01`
