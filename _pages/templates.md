@@ -20,7 +20,6 @@ Earliest encoded instance: |Latest encoded instance:
 **See also**:
 - [Marche de Minet el Bassal](https://dig-eg-gaz.github.io/templates/#marche-de-minet-el-bassal)
 - [Nolis](https://dig-eg-gaz.github.io/templates/#nolis)
-Earliest encoded instance: |Latest encoded instance:
 
 ## Association des Courtiers en Marchandises
 
@@ -122,7 +121,6 @@ Earliest encoded instance: |Latest encoded instance:
 **See also**
 - [Association des Courtiers en Marchandises](https://dig-eg-gaz.github.io/templates/#association-des-courtiers-en-marchandises)
 - [Exterieur](https://dig-eg-gaz.github.io/templates/#exterieur)
-Earliest encoded instance: |Latest encoded instance:
 
 ## Alexandria General Produce Association
 
@@ -209,7 +207,6 @@ Earliest encoded instance: |Latest encoded instance:
 
 **See also**:
 - [Reuter's Telegrams](https://dig-eg-gaz.github.io/templates/#reuters-telegrams)
-Earliest encoded instance: |Latest encoded instance:
 
 ## American Stocks & Shares
 
@@ -300,7 +297,6 @@ xml:id `deg-el-tdeq01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 Earliest encoded instance: 1905-01-03|Latest encoded instance:
 
 # IV Non-Financial
-Earliest encoded instance: |Latest encoded instance:
 
 ## Calendar of Coming Events
 
@@ -390,7 +386,6 @@ xml:id `deg-el-wept01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 Earliest encoded instance: |Latest encoded instance:
 
 # V Transportation
-Earliest encoded instance: |Latest encoded instance:
 
 ## Alexandria Tramway
 
@@ -420,7 +415,6 @@ xml:id `deg-el-rrat01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 Earliest encoded instance: |Latest encoded instance:
 
 # VI Egyptian Gazette
-Earliest encoded instance: |Latest encoded instance:
 
 ## Egyptian Gazette en vente
 
