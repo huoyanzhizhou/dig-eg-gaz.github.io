@@ -27,7 +27,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/mike-ebert)|20|||
 47|November 19, 1906|November 24, 1906|[Adrian Ell](https://github.com/are17)||||
 48|November 26, 1906|December 1, 1906|[Hailey Ensor](https://github.com/haileyensor)|All|||
-49|December 3, 1906|December 8, 1906|[Kendra Evers](https://github.com/EversK)||||
 50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|24|||
 1|December 31, 1906|January 5, 1907|[Kevin Hernandez](https://github.com/kevnandez)||||
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)|8|||

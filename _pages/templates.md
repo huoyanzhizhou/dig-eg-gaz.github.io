@@ -307,10 +307,10 @@ Earliest encoded instance: 1905-01-03|Latest encoded instance:
 
 ## Calendar of Coming Events
 
-Variant 1|Example date: 1905-07-12
+Variant 1|Example date: 1905-07-15
 ---|---
 element `comingEvents`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events_tn.jpg?raw=true)|**Notes**:
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events_tn.jpg?raw=true)|**Notes**: This calendar changes each day, but most events appear in several issues of the paper. You can move rows of the table in previous and future issues around to save effort.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png)|Locate internal table(s) using the xml:id(s) `deg-ta-coce01`
 Earliest encoded instance: |Latest encoded instance:
 
@@ -319,7 +319,7 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-cotw01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week_tn.jpg?raw=true)|**Notes**:
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week_tn.jpg?raw=true)|**Notes**: This element changes only once per week.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png)|Locate internal table(s) using the xml:id(s) `deg-ta-cotw01`
 Earliest encoded instance: |Latest encoded instance:
 
@@ -350,7 +350,7 @@ xml:id `deg-el-dawr01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png)|Locate internal table(s) using the xml:id(s) `deg-ta-dawr01`, `deg-ta-dawr02`, `deg-ta-dawr03`, `deg-ta-dawr04`
 Earliest encoded instance: 1905-01-02|Latest encoded instance:
 
-Variant 2|Example date: 1905-07-12
+Variant 2|Example date: 1906-10-01
 ---|---
 xml:id `deg-el-dawr01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report-02_tn.jpg?raw=true)|**Notes**:
@@ -428,7 +428,7 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-egev01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente_tn.jpg?raw=true)|**Notes**:
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente_tn.jpg?raw=true)|**Notes**: In the latter pages of the newspaper, we sometimes find a brief item explaining where and when the paper is sold.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png)|
 Earliest encoded instance: |Latest encoded instance:
 
@@ -437,7 +437,7 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-egpi01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info_tn.jpg?raw=true)|**Notes**:
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info_tn.jpg?raw=true)|**Notes**: This element usually comes immediately after the "Subscriptions and Advertisements" element on page 2, though sometimes other material is placed between them.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png)|
 Earliest encoded instance: |Latest encoded instance:
 

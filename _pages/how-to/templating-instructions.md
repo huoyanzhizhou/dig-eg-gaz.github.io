@@ -36,30 +36,6 @@ If you can't find a template that should be there, or if your version of an item
 
 ## 2. Miscellaneous templates
 
-### A. Daily Weather Report
-
-![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true "Daily Weather Report")
-
-This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml). An alternate template, from October 1906, is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml).  It may be most efficient to use the author view in Oxygen to enter particulars. xml:id="deg-el-dawr01", xml:id="deg-el-dawr02"; tables xml:id="deg-el-dawr01", xml:id="deg-el-dawr02", xml:id="deg-el-dawr03", xml:id="deg-el-dawr04"
-
-### B. Newspaper Subscriptions
-
-![Subscription and Advertisements](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true) ![Subscription and Advertisements 2](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements-02.png?raw=true)
-![Publishing Information](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
-
-These elements come side by side on page 2, though sometimes material is placed in the middle of them. Templates are [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml) (xml:id="deg-el-egsa01") and [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml) (xml:id="deg-el-egpi01").
-
-In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml) (xml:id="deg-el-egev01").
-
-![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
-
-### C. Calendars
-These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml); xml:id="deg-el-cotw01", table xml:id="deg-ta-cotw01") seems to have been changed only once per week. The Calendar of Coming Events ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml); xml:id="deg-el-coce01", table xml:id="deg-ta-coce01") changed each day it appears, moving future elements downwards.
-
-![Calendar of Coming Events](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
-
-![Calendar of the Week](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
-
 ### D. Municipality
 Municipal tenders appear in a formulaic fashion; it is necessary to change dates and particulars of the project being tendered. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml)
 
