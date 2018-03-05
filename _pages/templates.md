@@ -484,6 +484,15 @@ element `bulletinBourse`|No template
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse.png)|
 Earliest encoded instance: |Latest encoded instance:
 
+## Claims against the Estate
+
+Variant 1|Example date:
+---|---
+xml:id `deg-el-caet01`|[XML Format example](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate_tn.jpg?raw=true)|**Notes**: Change name, rank, post, and dates
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png)|
+Earliest encoded instance: |Latest encoded instance:
+
 ## Export Manifests
 
 Variant 1|Example date: 1905-07-12
@@ -507,5 +516,5 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|1905-07-12
 ---|---
 xml:id `deg-el-maav01`|No template
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/municipalite-avis_tn.jpg?raw=true)|**Notes**: This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml) call for tenders varies according to the construction project and dates.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/municipalite-avis_tn.jpg?raw=true)|**Notes**: This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml) call for tenders varies according to the construction project and dates. Municipal tenders appear in a formulaic fashion; it is necessary to change dates and particulars of the project being tendered.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/municipalite-avis.png)|(image is currently lacking)
