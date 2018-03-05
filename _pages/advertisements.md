@@ -376,9 +376,17 @@ xml text: [doa02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dob01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dob01-deutsche-orientbank.png?raw=true)
 
+### dpc01 Davey Paxman & Co. Ltd.
+xml text: [dpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dpc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dpc01-davey-paxman.png?raw=true)
+
 ### edl01 Egyptian Delta Light Railways Co., Limited
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
+
+### edl02 Helouan Railway
+xml text: [edl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl02-helouan-railway.png?raw=true)
 
 ### eec01 Jessop & Appleby Bros Ltd. / The Egyptian Engineering Co. Ltd.
 xml text: [eec01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eec01.xml)
@@ -1063,6 +1071,10 @@ xml text: [shh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### shl01 Savoy Hotel, Luxor
 xml text: [shl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/shl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/shl01-savoy-hotel-luxor.png?raw=true)
+
+### shr01 Shrager Brothers
+xml text: [shr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/shr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/shr01-shrager-brothers.png?raw=true)
 
 ### sio01 Sun Insurance Office
 xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)
