@@ -23,7 +23,7 @@ Earliest encoded instance: |Latest encoded instance:
 
 ## Association des Courtiers en Marchandises
 
-Variant 1|Example date: 1905-07-12
+Variant 1|Example date: 1905-07-15
 ---|---
 xml:id `deg-el-adcm01`|[XML template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)|**Notes**:
@@ -259,6 +259,13 @@ xml:id `deg-el-shli01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list.png)|Locate internal table(s) using the xml:id(s) `deg-ta-shli01`
 Earliest encoded instance: 1905-01-03|Latest encoded instance:
+
+Variant 2|Example date: 1906-07-02
+---|---
+xml:id `deg-el-shli02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list-02.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list-02_tn.jpg?raw=true)|**Notes**:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list092.png)|Locate internal table(s) using the xml:id(s) `deg-ta-shli01`
+Earliest encoded instance: 1906-07-02|Latest encoded instance:
 
 ## Stocks and Shares
 
