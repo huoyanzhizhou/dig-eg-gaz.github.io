@@ -10,9 +10,9 @@ header:
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 ---|---|---|---|---|---|---|---
 7|February 13, 1905|February 18, 1905|[India Anderson](https://github.com/Indiaa)||||
-29|July 17, 1905|July 22, 1905|[Daniel Arenas](https://github.com/Daniel1815)|32|||
-4|January 22, 1906|January 27, 1906|[Parker Beasley](https://github.com/ParkerB21)|6|||
-10|March 5, 1906|March 10, 1906|[Ian Bolger](https://github.com/ieb17)||||
+29|July 17, 1905|July 22, 1905|[Daniel Arenas](https://github.com/Daniel1815)|All|||
+4|January 22, 1906|January 27, 1906|[Parker Beasley](https://github.com/ParkerB21)|16|||
+10|March 5, 1906|March 10, 1906|[Ian Bolger](https://github.com/ieb17)|All|||
 13|March 26, 1906|March 31, 1906|[Hannah Bridges](https://github.com/hlb17)|26|||
 24|June 11, 1906|June 16, 1906|[Amy Lee Brown](https://github.com/amyleebrown)|All|1||
 25|June 18, 1906|June 23, 1906|[Payton Caffrey](https://github.com/pcaffrey98)||||
@@ -41,7 +41,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/FlameWo)||||
 13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/gporter1)||||
 14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|20|2|9|
-15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)|20|1||
+15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)|All|1||
 16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)|3|||
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/Claudia5)|3|||
 19|May 6, 1907|May 11, 1907|[Spencer Smith](https://github.com/spencer-R-smith)||||

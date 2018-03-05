@@ -34,7 +34,7 @@ Next, customize the template content to match your issue's content. Often there 
 
 If you can't find a template that should be there, or if your version of an item is so different from the template that you think a new template is warranted, there are a few things you can do. First, you can search the [repository of already-encoded issues](https://github.com/dig-eg-gaz/content) to see if someone has already produced a version of the material. If you find it, or if you feel up to encoding it yourself, you can turn this into a new template so that everyone can save time. Upload the xml and an image of the element to the [advertisements](https://github.com/dig-eg-gaz/advertisements) or [boilerplates](https://github.com/dig-eg-gaz/boilerplates) repository, and send a pull request. Finally, if you can't find the material anywhere and it's too involved to reproduce it yourself, file an issue at the advertisements or boilerplates repositories, insert a `<!-- missing template -->` comment with a few details into your document, and move on.
 
-## 2. Miscellaneous templates
+## Miscellaneous templates
 
 ### D. Municipality
 Municipal tenders appear in a formulaic fashion; it is necessary to change dates and particulars of the project being tendered. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml)
@@ -46,11 +46,6 @@ Change name, rank, post, and dates on the [xml template](https://github.com/dig-
 
 ![Claims against the estate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true)
 
-### F. Vade Mecum for the Homeward Bound
-This full-page vacation advertising section features on the seventh page of many issues between December 1905 and April 1906. This example is from December 5, 1905. Variations from issue to issue appear to be minor. Individual ads are not given their own xml:ids, because they are consistently repeated. For the whole page: xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
-
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true)
-
-## 3. An overview of issue elements
+## 2. An overview of issue elements
 
 For a general summary of recurring elements, see the tables [here](https://dig-eg-gaz.github.io/elements/). Early on in this project, I made [this table](https://docs.google.com/spreadsheets/d/118Zv13fpHfm67i1k0Sm79OThV4ApD-d1iccvrpw1iYU/edit?authuser=0), which lists items commonly present in issues of the *Egyptian Gazette*. For a given date, the page and column number are listed. [This powerpoint presentation](https://docs.google.com/presentation/d/1vMoj-5ktfUAsfXrEbQJqy8vSsKhYiVyGVIZZqefrJW0/edit?authuser=0) displays the content layout of several issues during the month of July 1905. (The main boilerplate is six pages long. On Wednesday and Saturday, when issues are eight pages, the extra pages are the fourth and fifth pages. Pages 6-8 of extended editions correspond to pages 4-6 of regular editions.)

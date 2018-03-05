@@ -459,12 +459,19 @@ Earliest encoded instance: |Latest encoded instance:
 
 ## Vade Mecum for the Homeward Bound
 
-Variant 1|Example date: 1905-12-05
+1905-06 Variant|Example date: 1905-12-05
 ---|---
-xml:id `deg-el-vmhb01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum_tn.jpg?raw=true)|**Notes**: This example, from December 5, 1905, was produced by Samantha Lappin. Variations to be determined.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg)|
-Earliest encoded instance: |Latest encoded instance:
+xml:id `deg-el-vmhb01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum-1905.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1905_tn.jpg?raw=true)|**Notes**: This full-page vacation advertising section features on the seventh page of many issues between December 1905 and April 1906. This example, from December 5, 1905, was produced by Samantha Lappin. Variations from issue to issue appear to be minor. Individual ads are not given their own `xml:id`s, because they are consistently repeated.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1905.jpg)|
+Earliest encoded instance: 1905-12-?? |Latest encoded instance: 1906-04-??
+
+1906-07 Variant|Example date:
+---|---
+xml:id `deg-el-vmhb02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum-1906.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1906_tn.jpg?raw=true)|**Notes**: This full-page vacation advertising section features on the seventh page of many issues between December 1906 and April 1907. Individual ads are not given their own `xml:id`s, because they are consistently repeated.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1906.jpg)|
+Earliest encoded instance: 1906-12-?? |Latest encoded instance: 1907-04-??
 
 # VII Non-templated elements
 
