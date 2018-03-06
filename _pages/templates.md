@@ -18,7 +18,7 @@ Earliest encoded instance: |Latest encoded instance:
 # I Cotton
 
 **See also**:
-- [Marche de Minet el Bassal](https://dig-eg-gaz.github.io/templates/#marche-de-minet-el-bassal)
+- [Marché de Minet el Bassal](https://dig-eg-gaz.github.io/templates/#marche-de-minet-el-bassal)
 - [Nolis](https://dig-eg-gaz.github.io/templates/#nolis)
 
 ## Association des Courtiers en Marchandises
@@ -28,21 +28,21 @@ Variant 1|Example date: 1905-07-15
 xml:id `deg-el-adcm01`|[XML template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers_tn.jpg?raw=true)|**Notes**:
 [Full sized image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png)|Locate internal table(s) using the  xml:id`deg-ta-adcm01`
-Earliest encoded instance: |Latest encoded instance:
+Earliest encoded instance: 1905-02-01 |Latest encoded instance: 1907-01-28
 
-Variant 2|Example date: 1907-04-02
+Variant 2 (Réponse des Primes en Contrats)|Example date: 1907-04-02
 ---|---
 xml:id `deg-el-adcm02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-02.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02_tn.jpg?raw=true)|**Notes**:
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)|Locate internal table(s) using the xml:id `deg-ta-adcm01`
-Earliest encoded instance: |Latest encoded instance:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)|Locate internal table(s) using the xml:id `deg-ta-adcm02`
+Earliest encoded instance: 1905-03-01 |Latest encoded instance: 1907-04-02
 
-Variant 3 (Special Service)|Example date: 1905-07-12
+Variant 3 (Special Service)|Example date: 
 ---|---
 xml:id `deg-el-acms01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-service-special.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special.png)|
-Earliest encoded instance: 1905-01-03|Latest encoded instance:
+Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-06-18
 
 ## Coton
 
@@ -176,7 +176,7 @@ xml:id `deg-el-egmm01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png)|Locate internal table(s) using the xml:id(s) `deg-ta-egmm01`
 Earliest encoded instance: |Latest encoded instance:
 
-## Marche de Minet el Bassal
+## Marché de Minet el Bassal
 
 Variant 1|Example date: 1905-07-12
 ---|---
