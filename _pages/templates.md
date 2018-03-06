@@ -78,24 +78,53 @@ Variant 1|Example date: 1905-07-12
 xml:id `deg-el-extr01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/exterieur.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/exterieur_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/exterieur.png)|
-Earliest encoded instance: 1905-01-04|Latest encoded instance:
+Earliest encoded instance: 1905-01-04|Latest encoded instance: 1907-05-22
 
 ## Primes des Contrats
 
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-pdco01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats_tn.jpg?raw=true)|**Notes**: It seems that the figures in this table are identical in some consecutive issues.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats_tn.jpg?raw=true)|**Notes**: It the figures in this table appear to remain constant over consecutive issues.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats.png)|Locate internal table(s) using the xml:id(s) `deg-ta-pdco01`
-Earliest encoded instance: 1905-01-03|Latest encoded instance:
+Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-04-24
 
 ## Reuter's Telegrams
+This table varies in lines from day to day. Sometimes too a list of Arrivals appears under the first (Liverpool) section. Certain days of the week contain weekly summaries--see variants 2 to 5 below.
 
-Variant 1|Example date: 1905-07-12
+Variant 1|Example date: 1905-07-13
 ---|---
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams_tn.jpg?raw=true)|**Notes**:This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams_tn.jpg?raw=true)|**Notes**: This variant, the most basic, seems to apply to Tuesday and Thursday issues.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
+Earliest encoded instance: 1905-01-02|Latest encoded instance:
+
+Variant 2 (Monday)|Example date: 1905-07-10
+---|---
+xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-monday.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-monday_tn.jpg?raw=true)|**Notes**: This variant includes a lengthly summary of weekly sales under the first (Liverpool) section.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-monday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
+Earliest encoded instance: 1905-01-02|Latest encoded instance:
+
+Variant 3 (Wednesday)|Example date: 1905-07-12
+---|---
+xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-wednesday.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-wednesday_tn.jpg?raw=true)|**Notes**:  This variant includes a 3-line London listing as its second section.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-wednesday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
+Earliest encoded instance: 1905-01-02|Latest encoded instance:
+
+Variant 4 (Friday)|Example date: 1905-07-14
+---|---
+xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-friday.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-friday_tn.jpg?raw=true)|**Notes**: This variant includes Bank Returns under the fourth (London) section.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-friday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
+Earliest encoded instance: 1905-01-02|Latest encoded instance:
+
+Variant 5 (Saturday)|Example date: 1905-07-15
+---|---
+xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-saturday.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-saturday_tn.jpg?raw=true)|**Notes**: This variant includes a summary of weekly sales under the third (New York) section.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-saturday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
 Earliest encoded instance: 1905-01-02|Latest encoded instance:
 
 ## Resume de la Situation Cotonniere
