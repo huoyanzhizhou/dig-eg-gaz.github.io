@@ -37,7 +37,7 @@ xml:id `deg-el-adcm02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers-02.png)|Locate internal table(s) using the xml:id `deg-ta-adcm02`
 Earliest encoded instance: 1905-03-01 |Latest encoded instance: 1907-04-02
 
-Variant 3 (Special Service)|Example date: 
+Variant 3 (Special Service)|Example date:
 ---|---
 xml:id `deg-el-acms01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-service-special.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special_tn.jpg?raw=true)|**Notes**:
@@ -49,27 +49,27 @@ Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-06-18
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-cotn01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coton.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton_tn.jpg?raw=true)|**Notes**:
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton_tn.jpg?raw=true)|**Notes**: This item lists total exports of the previous month, and changes only once per month.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton.png)|Locate internal table(s) using the xml:id(s) `deg-ta-cotn01`
-Earliest encoded instance: 1905-01-03|Latest encoded instance:
+Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-06-18
 
 ## Cotons
 
-Variant 1|Example date: 1905-07-12
+Variant 1|Example date: 1905-07-15
 ---|---
 xml:id `deg-el-ctns01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cotons.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons.png)|Locate internal table(s) using the xml:id(s) `deg-ta-ctns01`, `deg-ta-ctns02`
-Earliest encoded instance: 1905-01-03|Latest encoded instance:
+Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-06-18
 
 ## Derniere Heure
 
-Variant 1|Example date: 1905-07-12
+Variant 1|Example date: 1905-07-13
 ---|---
 xml:id `deg-el-dehe1`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/derniere-heure.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure.png)|Locate internal table(s) using the xml:id(s) `deg-ta-dehe1`
-Earliest encoded instance: 1905-01-03|Latest encoded instance:
+Earliest encoded instance: 1905-01-03|Latest encoded instance: 1907-06-18
 
 ## Exterieur
 
