@@ -102,30 +102,22 @@ Earliest encoded instance: 1905-01-02|Latest encoded instance:
 Variant 2 (Monday)|Example date: 1905-07-10
 ---|---
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-monday.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-monday_tn.jpg?raw=true)|**Notes**: This variant includes a lengthly summary of weekly sales under the first (Liverpool) section.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-monday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
-Earliest encoded instance: 1905-01-02|Latest encoded instance:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-monday.png)|**Notes**: This variant includes a lengthly summary of weekly sales under the first (Liverpool) section.
 
 Variant 3 (Wednesday)|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-wednesday.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-wednesday_tn.jpg?raw=true)|**Notes**:  This variant includes a 3-line London listing as its second section.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-wednesday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
-Earliest encoded instance: 1905-01-02|Latest encoded instance:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-wednesday.png)|**Notes**:  This variant includes a 3-line London listing as its second section.
 
 Variant 4 (Friday)|Example date: 1905-07-14
 ---|---
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-friday.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-friday_tn.jpg?raw=true)|**Notes**: This variant includes Bank Returns under the fourth (London) section.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-friday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
-Earliest encoded instance: 1905-01-02|Latest encoded instance:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-friday.png)|**Notes**: This variant includes Bank Returns under the fourth (London) section.
 
 Variant 5 (Saturday)|Example date: 1905-07-15
 ---|---
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams-saturday.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-saturday_tn.jpg?raw=true)|**Notes**: This variant includes a summary of weekly sales under the third (New York) section.
-[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-saturday.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
-Earliest encoded instance: 1905-01-02|Latest encoded instance:
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams-saturday.png)|**Notes**: This variant includes a summary of weekly sales under the third (New York) section.
 
 ## Resume de la Situation Cotonniere
 
