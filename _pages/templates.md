@@ -97,7 +97,7 @@ Variant 1|Example date: 1905-07-13
 xml:id `deg-el-reut01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams_tn.jpg?raw=true)|**Notes**: This variant, the most basic, seems to apply to Tuesday and Thursday issues.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png)|Locate internal table(s) using the xml:id(s) `deg-ta-reut01`
-Earliest encoded instance: 1905-01-02|Latest encoded instance:
+Earliest encoded instance: 1905-01-02|Latest encoded instance: 1907-05-21
 
 Variant 2 (Monday)|Example date: 1905-07-10
 ---|---
@@ -126,7 +126,7 @@ Variant 1|Example date: 1906-10-02
 xml:id `deg-el-rsco01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/resume-de-la-situation-cotonniere.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-de-la-situation-cotonniere_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-de-la-situation-cotonniere.png)|
-Earliest encoded instance: |Latest encoded instance:
+Earliest encoded instance: 1905-07-18 |Latest encoded instance: 1907-04-23
 
 ## Resume Mouvement Coton
 
@@ -135,7 +135,7 @@ Variant 1|Example date: 1907-04-01
 xml:id `deg-el-rmco01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/resume-mouvement-coton.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-mouvement-coton_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-mouvement-coton.png)|
-Earliest encoded instance: |Latest encoded instance:
+Earliest encoded instance: 1906-07-27 |Latest encoded instance: 1907-04-01
 
 # II Other Commodities
 
@@ -214,6 +214,15 @@ xml:id `deg-el-noli01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png)|Locate internal table(s) using the xml:id(s) `deg-ta-noli01`
 Earliest encoded instance: 1905-01-02|Latest encoded instance:
+
+## Sucres
+
+Variant 1|Example date: 1907-06-19
+---|---
+xml:id `deg-el-sucr01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/sucres.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/sucres_tn.jpg?raw=true)|**Notes**: This element was previously integrated into March Minet el-Bassal.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/sucres.png)|
+Earliest encoded instance: 1907-01-28 |Latest encoded instance:
 
 ## Tarif d'Exportation
 
@@ -494,7 +503,8 @@ xml:id `deg-el-vmhb02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1906.jpg)|
 Earliest encoded instance: 1906-12-?? |Latest encoded instance: 1907-04-??
 
-# VII Non-templated elements
+# VII Non-templated recurring elements
+The content of these items changes completely from issue to issue, so they should be OCRed. They are listed here to show the desired format for optimal search discoverability.
 
 ## Bulletin de la Bourse
 
