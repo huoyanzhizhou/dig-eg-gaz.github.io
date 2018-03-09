@@ -23,8 +23,7 @@ Section name|element|Usual page(s)|Frequency|Notes
 **Esbekieh Gardens** |"esbekieh"|3||Format concert program as a `list`
 **Passenger List** |"passList"|3,4,5,6,7||Treat arrivals and departures as items.
 **Steamer Movements** |"steamerMovements"|3|Almost daily.|Treat contents as paragraphs.
-**Shipping Movements** |"shippingMovements"|4,6|Almost daily. Begins November 13, 1905?|
-**[Mouvement Maritime](https://dig-eg-gaz.github.io/templates/#mouvement-maritime)** |"mouvementMaritime"|4|Almost daily. none after October 17, 1905?|French language. see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) for format.
+**Shipping Movements** and **[Mouvement Maritime](https://dig-eg-gaz.github.io/templates/#mouvement-maritime)**  |"shippingMovements"|4,6|Almost daily. |French-language Mouvement Maritime runs to October 1905; English-language Shipping Movements begins November 1905; see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) for format.
 **Army and Navy / Army of Occupation / Egyptian Army** |"army"|3,4,5,7||
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events)** |"comingEvents"|5|daily|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
 **[Cheap Prepaid Advertisements](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements)** |"prepaidAdvertisements"|2,5,7||Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
