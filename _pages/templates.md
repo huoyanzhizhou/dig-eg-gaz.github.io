@@ -21,6 +21,15 @@ Earliest encoded instance: |Latest encoded instance:
 - [Marché de Minet el Bassal](https://dig-eg-gaz.github.io/templates/#marche-de-minet-el-bassal)
 - [Nolis](https://dig-eg-gaz.github.io/templates/#nolis)
 
+## Alexandria General Produce Association (Cotton)
+
+Variant 1|Example date: 1905-03-01
+---|---
+xml:id `deg-el-agpc01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-general-produce-cotton.xml)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-cotton_tn.jpg?raw=true)|**Notes**: Prepared by Jacob Baenen.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-cotton.png)|
+Earliest encoded instance: 1905-03-01 |Latest encoded instance: 1907-06-19
+
 ## Association des Courtiers en Marchandises
 
 Variant 1|Example date: 1905-07-15

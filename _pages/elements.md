@@ -33,9 +33,11 @@ Section name|element|Usual page(s)|Frequency|Notes
 **Legal Notes / Chronique Judiciare** |"legal"|3,4,6||French language
 **Our London Letter** |"londonLetter"|7||
 **Our Paris Letter** |"parisLetter"|7||
+**Egyptological Notes** |"egyptological"|||
 **Egyptian Share Market** |"shareMarket"|3,5||contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table.
 **Bulletin de la bourse** |"bulletinBourse"|3,4,6||French language
 **Chronique Financiere** |"chroniqueFinanciere"|3,4||French language
+**Circulaire H. de Vries et Boutigny. Notes et Critiques**  |"circulaire"|3,4||French language
 **[Export Manifests](https://dig-eg-gaz.github.io/templates/#export-manifests)** |"exportManifests"|||See [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml) for format
 
 ## "Notes from" section:
