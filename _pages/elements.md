@@ -26,14 +26,14 @@ Section name|element|Usual page(s)|Frequency|Notes
 **Shipping Movements** and **[Mouvement Maritime](https://dig-eg-gaz.github.io/templates/#mouvement-maritime)**  |"shippingMovements"|4,6|Almost daily. |French-language Mouvement Maritime runs to October 1905; English-language Shipping Movements begins November 1905; see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) for format.
 **Army and Navy / Army of Occupation / Egyptian Army** |"army"|3,4,5,7||
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events)** |"comingEvents"|5|daily|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
-**[Cheap Prepaid Advertisements](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements)** |"prepaidAdvertisements"|2,5,7||Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
+**[Cheap Prepaid Advertisements](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements)** |"prepaidAdvertisements"|2,5,7||Also listed as "Cheap Advertisements." Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
 **Visitors' List** |"visitList"|3,5||Treat each hotel as an item.
-**Matters of Moment. Pith of the Press Comments.** |"mattersMoment"|5||
+**Matters of Moment / Pith of the Press Comments / Home Papers** |"homePapers"|5||Make into a section and divide contents into items.
 **Legal Notes / Chronique Judiciare** |"legal"|3,4,6||French language
 **Our London Letter** |"londonLetter"|7||
 **Our Paris Letter** |"parisLetter"|7||
 **Egyptological Notes** |"egyptological"|||
-**Egyptian Share Market** |"shareMarket"|3,5||contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table.
+**Egyptian Share Market / Money and Share Market** |"shareMarket"|3,5|Usually Thursday|contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table. Ends January 1906.
 **Bulletin de la bourse** |"bulletinBourse"|3,4,6||French language
 **Chronique Financiere** |"chroniqueFinanciere"|3,4||French language
 **Circulaire H. de Vries et Boutigny. Notes et Critiques**  |"circulaire"|3,4||French language
