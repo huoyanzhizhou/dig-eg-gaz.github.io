@@ -27,13 +27,16 @@ This lesson explains how to turn images of text into editable files. Use this te
 4. It is possible that your page contains text in French. If this is the case, enclose that text in its own area and set the language (in the "Area Properties" tab at the bottom of the screen) to French.
 5. Once the sequence of areas is correct, click the "read" icon again. The program will reread the text in the order you've indicated.
 6. Click on the "verification" icon, and proceed to correct the text. When verifying the text, remember that you are only correcting the automatic reading. *Do not* correct any errors you might find in the newspaper itself--not even minor spelling errors. We want to preserve the newspaper in its original text, warts and all.
-7. Once you've verified some or all of the text, save your verification work. (If you close Finereader without saving the verification separately, you will lose your work). To do this, use the "Save" icon in the middle top of the page. Choose "Plain text" as the document layout, and click "Save." Name the document following the standard format of YYYY-MM-DD-p#. If you click "Format options," and check "Use blank line as paragraph separator," it will make your work easier later on. You can now close Finereader without losing your verification work.
+7. Once you've verified some or all of the text, save your verification work. (If you close Finereader without saving the verification separately, you will lose your work). To do this, use the "Save" icon in the middle top of the page. Choose "Plain text" or "Word Document" as the document layout (as you like), and click "Save." Name the document following the standard format of YYYY-MM-DD-p#. If you click "Format options," and check "Use blank line as paragraph separator," it will make your work easier later on. You can now close Finereader without losing your verification work.
 8. Once you've finished work on the page, upload it to your personal GitHub repository.
 
 ### If you are using Mac:
 This is one of the rare instances when you may be better off using Windows. If you can get ahold of a Windows machine and use Finereader following the instructions above, that may be easier. If not, you can use the Mac version of Finereader, which you can [download here](https://trial.abbyyusa.com/download-frpro-mac-free-trial). The Mac version lacks a verification tool, but it works okay. When you open the .dmg file you've downloaded, don't install the program by dragging it into your applications folder. Instead, doubleclick the Finereader icon and run the program directly. That way you may face fewer problems if your trial period runs out.
 
-To use Finereader on a mac, follow steps 2 to 5 of the instructions above. Then, click "Export." Choose a format (I recommend plain text) and save the file. Then open that file for text correction and to transfer the text into the Oxygen XML editor.
+To use Finereader on a mac, follow steps 2 to 5 of the instructions above. Then, click "Export." Choose a format (I recommend plain text, but .doc is also useful) and save the file. Then open that file for text correction and to transfer the text into the Oxygen XML editor.
+
+### If your trial license runs out:
+The free version of [Finereader Online](finereaderonline.com) allows you to OCR 10 pages per month. This should help if you don't manage to finish all of your OCR in time. Note that there is no verification tool in the online version.
 
 ## 2. Move the text into your XML file
 
@@ -50,9 +53,12 @@ Oxygen offers many shortcuts to make this work go faster. Highlight the text you
 Once you add these tags to your page, you might have a valid document (an thus a green box in Oxygen). But these common errors will probably also have to be addressed:
 - **&**: the ampersand is represented as `&amp;` in xml. `&` alone will create an error.
 - **>** or **<**: the OCR process produces stray angle brackets. The editor thinks these are part of a xml tag, and it causes an error.
-- anything else not in a `<div>`
+- anything else not in a `<div>`, and not in a `<p>` or a `<head>`.
 
-## 4. Add more complex structural tags
+## 4. Add element attributes
+There are many recurring elements that show up issue after issue: local news, international news, sports, and many more. It is important to mark these using the element attribute, so that we can find them in XPath searches. The complete list of elements is [here](https://dig-eg-gaz.github.io/elements/). To add an element attribute, place it within the `<div>` tag, after the `type="item"` attribute.
+
+## 5. Add more complex structural tags
 There are more tags that you can add:
 - If the article or item is in French, add the attribute `xml:lang="fr"` to the `<div>` tag.
 - **`<cb/>`** for column breaks. Be sure to put this tag at the *beginning* of the column. Add the number of the column, as well, thus: `<cb n="1"/>` For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
@@ -63,7 +69,7 @@ There are more tags that you can add:
 - pieces of articles that are continuous texts broken up by ads or between issues should be connected using xml:id and the next and prev elements, thus: if the articles are in the same issue, make their tags `<div type="item" xml:id="item1" next="item2">` and `<div type="item" xml:id="item2" prev="item1">`. If the articles are in different issues, make their tags `<div type="item" xml:id="item1" next="YYYY-MM-DD.xml#item2">` and `<div type="item" xml:id="item2" prev="YYYY-MM-DD.xml#item1">`.
 - the **`<figure>`** element will be useful for the *Egyptian Gazette*, but I have not yet worked out how to use it.
 
-## 5. Add content tags
+## 6. Add content tags
 This is a more advanced undertaking. See the separate tutorial [here](https://dig-eg-gaz.github.io/how-to/tagging-people-and-places-instructions/).
 
 ## FAQs
@@ -75,6 +81,10 @@ If you find a very large number of errors, you might consider re-scanning the pa
 ### How do I deal with accented letters?
 
 Preserve all accents (e.g. in words like début). You will need to enter accents as single characters. To do so, use the extended keyboard. Here are some pointers for [Windows](https://kb.iu.edu/d/aihp) and [Mac](http://symbolcodes.tlt.psu.edu/accents/codemac.html).
+
+### What if I can't read the text?
+
+Wrap it in an `<unclear>` tag, and maybe add a `<!-- comment -->` explaining what's going on.
 
 ### Are there other OCR programs available for Mac?
 I've also had good results with [Cisdem OCR Wizard](https://www.cisdem.com/ocr-wizard-mac.html). I'm not sure how long their free trial lasts, but it's worth a try, and can also be purchased for $60. Follow the directions below.

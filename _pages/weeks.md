@@ -30,7 +30,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|24|||
 1|December 31, 1906|January 5, 1907|[Kevin Hernandez](https://github.com/kevnandez)||||
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)|8|||
-3|January 14, 1907|January 19, 1907|[Ty Jarmon](https://github.com/tyjarmon)||||
 4|January 21, 1907|January 26, 1907|[Ryan Jones](https://github.com/Ryan-Jones994)|24|||
 5|January 28, 1907|February 2, 1907|[Chloe Majonica](https://github.com/chloeelise)|24|1||
 6|February 4, 1907|February 9, 1907|[Sophia Metallo](https://github.com/SophiaElizabeth)|2|||
@@ -52,6 +51,8 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 26|June 24, 1907|June 29, 1907|[Tiffany Medina](https://github.com/tdm16g)|12|||
 27|July 1, 1907|July 6, 1907|[Hannah Frady](https://github.com/hcf16b)|6|||
 28|July 8, 1907|July 13, 1907|[Patrick Mason](https://github.com/patrickmason8)||||
+32|August 8, 1907|August 13, 1907|[Ty Jarmon](https://github.com/tyjarmon)||||
+
 
 # Previous courses
 

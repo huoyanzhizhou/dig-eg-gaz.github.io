@@ -628,6 +628,10 @@ xml text: [hob02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hob03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob03-howies-butter.png?raw=true)
 
+### hmh01 Hoff's Malt Homax
+xml text: [hmh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hmh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax.png?raw=true)
+
 ### hse01 Hotel Semiramis
 xml text: [hse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hse01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hse01-hotel-semiramis.png?raw=true)
