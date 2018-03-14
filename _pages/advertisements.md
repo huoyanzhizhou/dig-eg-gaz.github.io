@@ -17,6 +17,7 @@ Every ad template has an XML id embedded in it, following this format: `xml:id="
 </div>
 
 ### aac01 Allen, Alderson & Co.
+
 xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png)
