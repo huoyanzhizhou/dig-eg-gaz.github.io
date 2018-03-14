@@ -106,6 +106,12 @@ xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce.png)
 
+### ahh01 Al Hayat Helouan
+
+xml text: [ahh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ahh01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ahh01-al-hayat-helouan_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ahh01-al-hayat-helouan.png)
+
 ### akl01 Arthur Koppel, Ltd.
 
 xml text: [akl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/akl01.xml)|Date: 0000-00-00
@@ -445,6 +451,12 @@ xml text: [crl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl02-Credit-Lyonnais_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl02-Credit-Lyonnais.png)
 
+### csh01 Cairo-Savoy Hotel
+
+xml text: [csh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/csh01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/csh01-cairo-savoy-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/csh01-cairo-savoy-hotel.png)
+
 ### csr01 Cassa di Sconto e di Risparmio
 
 xml text: [csr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/csr01.xml)|Date: 0000-00-00
@@ -616,7 +628,7 @@ xml text: [eec04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### eeh01 Eastern Exchange Hotel
 
-xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)|Date: 0000-00-00
+xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png)
 
@@ -841,6 +853,12 @@ xml text: [gnh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [gok01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gok01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gok01-gordon-hotel-khartoum_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gok01-gordon-hotel-khartoum.png)
+
+### gph01 Ghezireh Palace Hotel
+
+xml text: [gph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gph01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gph01-ghezireh-palace-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gph01-ghezireh-palace-hotel.png)
 
 ### gwy01 Gwynne’s Limited
 
@@ -1447,6 +1465,13 @@ xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line.png)
 Ship names, weights, dates, and destinations change.|
 
+### phl01 Pagnon's Hotel, Luxor
+
+xml text: [phl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phl01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phl01-pagnons-hotel-luxor_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phl01-pagnons-hotel-luxor.png)
+Ship names, weights, dates, and destinations change.|
+
 ### plc01 Peach's Lace Curtains
 
 xml text: [plc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/plc01.xml)|Date: 0000-00-00
@@ -1803,6 +1828,12 @@ xml text: [tph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph01-tewfik-palace-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph01-tewfik-palace-hotel.png)
 
+### tph02 Where to Winter in Egypt. Tewfik Palace Hotel
+
+xml text: [tph02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tph02.xml)|Date: 0000-00-00
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph02-tewfik-palace-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph02-tewfik-palace-hotel.png)
+
 ### tsc01 The Seasonable Complaint
 
 xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)|Date: 0000-00-00
@@ -1817,7 +1848,7 @@ xml text: [tss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### twh01 The Tosh Whiskey
 
-xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)|Date: 0000-00-00
+xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh01-The-Tosh-Whiskey_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh01-The-Tosh-Whiskey.png)
 
@@ -1871,7 +1902,7 @@ xml text: [vhb02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### wam01 Walker & Meimarachi
 
-xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)|Date: 0000-00-00
+xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png)
 
@@ -1931,7 +1962,7 @@ xml text: [wmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### wsl01 White Star Line
 
-xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml) produced by Madison Flick.|Date: 0000-00-00
+xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line.png)
 
