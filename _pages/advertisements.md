@@ -19,7 +19,7 @@ Every ad template has an XML id embedded in it, following this format: `xml:id="
 ### aac01 Allen, Alderson & Co.
 xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)|Date: 0000-00-00
 ---|---
-![Image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co_tn_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png)
 
 ### aan01 Anglo-American Nile Steamer & Hotel Coy.
 xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan01.xml)|Date: 0000-00-00
@@ -1014,7 +1014,7 @@ xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### mil01 Milner's Safes
 xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil01.xml)|Date: 0000-00-00
 ---|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.jpg?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.png)
 
 ### mil02 Milner's Safes
 xml text: [mil02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil02.xml)|Date: 0000-00-00
@@ -1608,9 +1608,9 @@ xml text: [yos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### yos03 Yost
 xml text: [yos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos03.xml)|Date: 0000-00-00
 ---|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos03-yost_tn_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos03-yost.png)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos03-yost_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos03-yost.png)
 
 ### you01 Youngs
 xml text: [you01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/you01.xml)|Date: 0000-00-00
 ---|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/you01-youngs_tn_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/you01-youngs.png)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/you01-youngs_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/you01-youngs.png)
