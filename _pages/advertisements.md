@@ -20,11 +20,11 @@ Every ad template has an XML id embedded in it, following this format: `xml:id="
 xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)
 ![Image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png?raw=true)
 
-### aan01 Anglo-American Nile Streamer & Hotel Coy.
+### aan01 Anglo-American Nile Steamer & Hotel Coy.
 xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan01-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
 
-### aan02 Anglo-American Nile Streamer & Hotel Coy.
+### aan02 Anglo-American Nile Steamer & Hotel Coy.
 xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan02-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
 
@@ -32,7 +32,7 @@ xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aan03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan03-Hamburg-Anglo-American-Nile.png?raw=true)
 
-### aan04 Anglo-American Nile Streamer & Hotel Coy.
+### aan04 Anglo-American Nile Steamer & Hotel Coy.
 xml text: [aan04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan04.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan04-anglo-american-nile-steamer.png?raw=true)
 
@@ -319,6 +319,10 @@ xml text: [cun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### cun03 Cunard Line
 xml text: [cun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun03-Cunard-Line.png?raw=true)
+
+### cun04 Cunard Line
+1905-01-09. xml text: [cun04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun04-Cunard-Line.png?raw=true)
 
 ### dia01 Diamonds
 xml text: [dia01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dia01.xml)
@@ -1045,7 +1049,7 @@ xml text: [scf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/scf01-supplement-commercial-financier.png?raw=true)
 
 ### sde01 Sudan Development & Exploration Company, Limited
-xml text (with errors): [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)
+xml text: [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde01-Sudan-Development-Exploration-Company-Limited.png?raw=true)
 
 ### sfp01 Swan Fountain Pen
@@ -1063,6 +1067,10 @@ xml text: [sgr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### sgr03 Sudan Government Railways
 xml text: [sgr03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr03-sudan-government-railways.png?raw=true)
+
+### sgr04 Sudan Government Railways
+xml text: [sgr04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr04.xml) (1905-01-02)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr04-sudan-government-railways.png?raw=true)
 
 ### sha01 Shannon System
 xml text: [sha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sha01.xml)
