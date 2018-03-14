@@ -114,15 +114,17 @@ xml text: [akl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### all01 Anchor Line, Limited
 
-xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml). Destinations, ship names, and dates change.|Date: 0000-00-00
+xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited.png)
+Destinations, ship names, and dates change.|
 
 ### all02 Anchor Line, Limited
 
-xml text: [all02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all02.xml). Destinations, ship names, and dates change.|Date: 0000-00-00
+xml text: [all02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all02-Anchor-Line-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all02-Anchor-Line-Limited.png)
+Destinations, ship names, and dates change.|
 
 ### alf01 Allenburys Foods
 
@@ -132,21 +134,24 @@ xml text: [alf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### als01 Austrian Lloyd's Steam Navigation
 
-xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als01.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.|Date: 0000-00-00
+xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als01-Austrian-Lloyds-Steam-Navigation_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als01-Austrian-Lloyds-Steam-Navigation.png)
+Ship dates, names, and captains' names change. Near bottom, destination dates change.|
 
 ### als02 Austrian Lloyd's Steam Navigation
 
-xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als02.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.|Date: 0000-00-00
+xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als02-Austrian-Lloyds-Steam-Navigation_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als02-Austrian-Lloyds-Steam-Navigation.png)
+Ship dates, names, and captains' names change. Near bottom, destination dates change.|
 
 ### als03 Austrian Lloyd's Steam Navigation
 
-xml text: [als03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als03.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.|Date: 0000-00-00
+xml text: [als03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als03.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als03-Austrian-Lloyds-Steam-Navigation_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als03-Austrian-Lloyds-Steam-Navigation.png)
+Ship dates, names, and captains' names change. Near bottom, destination dates change.|
 
 ### ams01 Samuelson & Sons
 
@@ -204,9 +209,10 @@ xml text: [bam03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bcc01 British Chamber of Commerce
 
-xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml). Ship names and dates on lines 6 and 9 change.|Date: 0000-00-00
+xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc01-British-Chamber-of-Commerce_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc01-British-Chamber-of-Commerce.png)
+Ship names and dates on lines 6 and 9 change.|
 
 ### bcp01 Beck & Co’s Pilsener Beer
 
@@ -252,21 +258,24 @@ xml text: [blc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### blm01 Bibby Line Mail Steamers
 
-xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml). Ship names, weights, dates change.|Date: 0000-00-00
+xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers.png)
+Ship names, weights, dates change.|
 
 ### blm02 Bibby Line Mail Steamers
 
-xml text: [blm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm02.xml). Ship names, weights, dates change.|Date: 0000-00-00
+xml text: [blm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm02-biddy-line-mail_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm02-biddy-line-mail.png)
+Ship names, weights, dates change.|
 
 ### blm03 Bibby Line Mail Steamers
 
-xml text: [blm03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm03.xml). Ship names, weights, dates change.|Date: 0000-00-00
+xml text: [blm03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm03.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm03-biddy-line-mail_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm03-biddy-line-mail.png)
+Ship names, weights, dates change.|
 
 ### boa01 Bon Accord
 
@@ -534,9 +543,10 @@ xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### dll01 Deutsche Levante-Linie
 
-xml text: [dll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll01.xml). Expected at Alexandria ship names, dates, and destinations change.|Date: 0000-00-00
+xml text: [dll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll01-Deutsche-Levant-Linie_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll01-Deutsche-Levant-Linie.png)
+Expected at Alexandria ship names, dates, and destinations change.|
 
 ### dim01 Dinneford's Magnesia
 
@@ -1260,9 +1270,10 @@ xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mss01 The Moss S. S. Company, Ltd.
 
-xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml). Dates, destinations, and ship names in 5th and 6th paragraphs from end change.|Date: 0000-00-00
+xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss01-The-Moss-SS-Company-Ltd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss01-The-Moss-SS-Company-Ltd.png)
+Dates, destinations, and ship names in 5th and 6th paragraphs from end change.|
 
 ### nbe01 National Bank of Egypt
 
@@ -1308,9 +1319,10 @@ xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ngi01 Navigation Generale Italienne
 
-xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi01.xml). Changes monthly? Ad in French.|Date: 0000-00-00
+xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi01-Navigation-Generale-Italienne_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi01-Navigation-Generale-Italienne.png)
+Changes monthly? Ad in French.|
 
 ### nkh01 New Khedivial Hotel Alexandria
 
@@ -1338,9 +1350,10 @@ xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### nll02 Norddeutscher Lloyd
 
-xml text: [nll02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll02.xml). Ship names, weights, dates change.|Date: 0000-00-00
+xml text: [nll02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll02-Norddeutscher-Lloyd-II_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll02-Norddeutscher-Lloyd-II.png)
+Ship names, weights, dates change.|
 
 ### nml01 The National Mutual Life Association of Australasia, Limited
 
@@ -1390,21 +1403,24 @@ xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### opl01 Orient-Pacific Line of Royal Mail Steamers
 
-xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl01.xml). Outwards/homewards ship names and sailing dates change. Variant of orm01.|Date: 0000-00-00
+xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers.png)
+Outwards/homewards ship names and sailing dates change. Variant of orm01.|
 
 ### orm01 Orient-Royal Mail
 
-xml text: [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm01.xml)  Outwards/homewards ship names and sailing dates change. Variant of opl01.|Date: 0000-00-00
+xml text: [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm01-orient-royal-mail_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm01-orient-royal-mail.png)
+Outwards/homewards ship names and sailing dates change. Variant of opl01.|
 
 ### orm02 Orient-Royal Mail
 
-xml text: [orm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm02.xml)  Outwards/homewards ship names and sailing dates change. Variant of opl01.|Date: 0000-00-00
+xml text: [orm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm02-orient-royal-mail_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm02-orient-royal-mail.png)
+Outwards/homewards ship names and sailing dates change. Variant of opl01.|
 
 ### pdd01 Pilules du Docteur Dehaut
 
@@ -1426,9 +1442,10 @@ xml text: [per01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### phc01 P. Henderson & Co.'s Line.
 
-xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml). Ship names, weights, dates, and destinations change.|Date: 0000-00-00
+xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line.png)
+Ship names, weights, dates, and destinations change.|
 
 ### plc01 Peach's Lace Curtains
 
@@ -1438,9 +1455,10 @@ xml text: [plc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pos01 Peninsular and Oriental S.N. Company
 
-xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml). Text of third paragraph and ship names and dates in the table change.|Date: 0000-00-00
+xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos01-Peninsular-and-Oriental-S-N-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos01-Peninsular-and-Oriental-S-N-Company.png)
+Text of third paragraph and ship names and dates in the table change.|
 
 ### pos02 P & O Weekly Mail and Passenger Service
 
@@ -1456,9 +1474,10 @@ xml text: [pos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pos04 Peninsular and Oriental S.N. Company
 
-xml text: [pos04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos04.xml). Text of ship names and dates in the table change.|Date: 0000-00-00
+xml text: [pos04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos04.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos04-Peninsular-and-Oriental-S-N-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos04-Peninsular-and-Oriental-S-N-Company.png)
+Text of ship names and dates in the table change.|
 
 ### pos05 Peninsular and Oriental S.N. Company
 
