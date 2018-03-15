@@ -586,7 +586,7 @@ xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### dpc01 Davey Paxman & Co. Ltd.
 
-xml text: [dpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dpc01.xml)|Date: 0000-00-00
+xml text: [dpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dpc01.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dpc01-davey-paxman_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dpc01-davey-paxman.png)
 
@@ -667,6 +667,12 @@ xml text: [ell03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ell04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell04.xml). Dates, ships and destinations in third paragraph vary.|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell04-The-Papayanni-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell04-The-Papayanni-Line.png)
+
+### ema01 Egyptian Mining Activity
+
+xml text: [ema01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ema01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ema01-egyptian-mining-activity_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ema01-egyptian-mining-activity.png)
 
 ### emp01 English Made Petroleum Engines
 
@@ -895,6 +901,12 @@ xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hbr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr02-Hotel-Beau-Rivage_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr02-Hotel-Beau-Rivage.png)
+
+### hcf01 H & C Flick Cigar Importers
+
+xml text: [hcf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcf01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcf01-h-c-flick_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcf01-h-c-flick.png)
 
 ### hcp01 Paris Hotel Continental
 
@@ -1160,6 +1172,12 @@ xml text: [ldb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldb01-les-diamants-bera_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldb01-les-diamants-bera.png)
 
+### ldl01 Libby's Dainty Luncheon Meats
+
+xml text: [ldl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ldl01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldl01-libbys-dainty-luncheon-meats_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldl01-libbys-dainty-luncheon-meats.png)
+
 ### lea01 Lea and Perrins'
 
 xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)|Date: 0000-00-00
@@ -1201,6 +1219,12 @@ xml text: [lip01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/liv01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/liv01-livadas_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/liv01-livadas.png)
+
+### lse01 London St. Ermin's Hotel
+
+xml text: [lse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lse01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lse01-london-st-ermins-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lse01-london-st-ermins-hotel.png)
 
 ### lsh01 London Salisbury Hotel
 
@@ -1418,6 +1442,12 @@ xml text: [nvh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel.png)
+
+### okl02 Orenstein & Koppel Ltd. / Siemens & Halske
+
+xml text: [okl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl02.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl02-orenstein-koppel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl02-orenstein-koppel.png)
 
 ### opl01 Orient-Pacific Line of Royal Mail Steamers
 
@@ -1708,17 +1738,23 @@ xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room.png)
 
+### spc01 Spiro Condoleon
+
+xml text: [spc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spc01.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spc01-spiro-condoleon_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spc01-spiro-condoleon.png)
+
 ### sph01 Savoy Palace Hotel
 
 xml text: [sph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sph01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sph01-savoy-palace-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sph01-savoy-palace-hotel.png)
 
-### spc01 Savoy Palace Hotel
+### spx01 The Sphinx
 
-xml text: [spc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spc01.xml)|Date: 1905-01-02
+xml text: [spx01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spx01.xml)|Date: 1905-01-02
 ---|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spc01-spiro-condoleon_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spc01-spiro-condoleon.png)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spx01-the-sphinx_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spx01-the-sphinx.png)
 
 ### srg01 Sam Remo Grand Hotel
 
@@ -1797,6 +1833,12 @@ xml text: [tcs03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [tcs04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs04.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs04-Thos-Cook-Son_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs04-Thos-Cook-Son.png)
+
+### tcs05 Thos. Cook & Son
+
+xml text: [tcs05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs05.xml)|Date: 1905-01-02
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs05-Thos-Cook-Son_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs05-Thos-Cook-Son.png)
 
 ### thc01 Thornes High Class Whiskey
 
