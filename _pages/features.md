@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
+title: Features
+permalink: /features/
 header:
   image_fullwidth: front-page.jpg
 ---
-The Egyptian Gazette features a large number of recurring elements, which this project identifies using the `element=` attribute. Some of this material is captured in [templates](https://dig-eg-gaz.github.io/templates/), and others are [advertisements](https://dig-eg-gaz.github.io/advertisements). This pages lists recurring free-text elements, which are described using terms from the [Digital Egyptian Gazette schema](https://dig-eg-gaz.github.io/schema/). Many of the elements listed (ought to) contain sub-items with their own headlines, often also bylines and datelines.
+The Egyptian Gazette features a large number of recurring elements, which this project identifies using the `features=` attribute. ()**NB: Formerly this was called the `element` attribute; that term, which conflicts with TEI vocabulary, is being deprecated.**) Some of this material is captured in [templates](https://dig-eg-gaz.github.io/templates/), and others are [advertisements](https://dig-eg-gaz.github.io/advertisements). This pages lists recurring free-text features, which are described using terms from the [Digital Egyptian Gazette schema](https://dig-eg-gaz.github.io/schema/). Many of the features listed (ought to) contain sub-items with their own headlines, often also bylines and datelines.
 
-Section name|element|Usual page(s)|Frequency|Notes
+Section Name|feature|Usual page(s)|Frequency|Notes
 ---|---|---|---|---
 **[Advertisements](https://dig-eg-gaz.github.io/advertisements/)** |various|1,2|daily|Use [templates](https://dig-eg-gaz.github.io/advertisements/)
 **[Daily Weather Report](https://dig-eg-gaz.github.io/templates/#daily-weather-report)** |"weather"|2|daily|[tempate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml) [alternate tempate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml)
@@ -43,7 +43,7 @@ Section name|element|Usual page(s)|Frequency|Notes
 ## "Notes from" section:
 These notes typically appear on page 3. They are sourced to "Our Own Correspondent". Treat individual stories as `<div type="item">`, each with its own `<head>`. It is not always clear how many stories belong to the section.
 
-Place|element|Notes
+Place|feature|Notes
 ---|---|---
 Constantinople|"notesConstantinople"|also appears as Constantinople Notes
 Port Said|"notesPortSaid"|
@@ -57,6 +57,5 @@ Assiout|"notesAssiout"
 Luxor|"notesLuxor"|also appears as Luxor Notes
 Other|"notesOther"|Notes from Akhmin, Keneh, Kafr Zayat, Minet el Gamh, Wadi Medani, and other places in Egypt
 
-Others infrequently occuring elements, not yet assigned an `element` value:
+Others infrequently occuring features, not yet assigned an `feature` value:
 - Questions municipales
-- Egyptological Notes
