@@ -5,7 +5,9 @@ permalink: /features/
 header:
   image_fullwidth: front-page.jpg
 ---
-The Egyptian Gazette features a large number of recurring elements, which this project identifies using the `features=` attribute. ()**NB: Formerly this was called the `element` attribute; that term, which conflicts with TEI vocabulary, is being deprecated.**) Some of this material is captured in [templates](https://dig-eg-gaz.github.io/templates/), and others are [advertisements](https://dig-eg-gaz.github.io/advertisements). This pages lists recurring free-text features, which are described using terms from the [Digital Egyptian Gazette schema](https://dig-eg-gaz.github.io/schema/). Many of the features listed (ought to) contain sub-items with their own headlines, often also bylines and datelines.
+**NB: Formerly the `feature` attribute was called the `element` attribute; that term, which conflicts with TEI vocabulary, is being deprecated.**
+
+The *Egyptian Gazette* features a large number of recurring elements, which this project identifies using the `features=` attribute. Some of this material is captured in [templates](https://dig-eg-gaz.github.io/templates/), and others are [advertisements](https://dig-eg-gaz.github.io/advertisements). This pages lists recurring free-text features, which are described using terms from the [Digital Egyptian Gazette schema](https://dig-eg-gaz.github.io/schema/). Many of the features listed (ought to) contain sub-items with their own headlines, often also bylines and datelines.
 
 Section Name|feature|Usual page(s)|Frequency|Notes
 ---|---|---|---|---

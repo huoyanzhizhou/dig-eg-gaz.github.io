@@ -5,7 +5,7 @@ permalink: /templates/
 header:
   image_fullwidth: masthead.jpg
 ---
-Many elements in the *Egyptian Gazette* were produced using boilerplates. This page's database contains a complete set of these elements. Use the images and links to text below, or consult the separate directories of [XML files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-text) and [image files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-images). Copy and paste for standard-format elements, then fill in the details that change from issue to issue.
+Many features in the *Egyptian Gazette* were produced using boilerplates. This page's database contains a complete set of these features. Use the images and links to text below, or consult the separate directories of [XML files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-text) and [image files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-images). Copy and paste for standard-format features, then fill in the details that change from issue to issue.
 
 <div class="panel radius" markdown="1">
 **List of Templates**
@@ -229,7 +229,7 @@ Earliest encoded instance: 1905-01-02|Latest encoded instance:
 Variant 1|Example date: 1907-06-19
 ---|---
 xml:id `deg-el-sucr01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/sucres.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/sucres_tn.jpg?raw=true)|**Notes**: This element was previously integrated into March Minet el-Bassal.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/sucres_tn.jpg?raw=true)|**Notes**: This feature was previously integrated into March Minet el-Bassal.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/sucres.png)|
 Earliest encoded instance: 1907-01-28 |Latest encoded instance:
 
@@ -338,7 +338,7 @@ Earliest encoded instance: 1905-01-02|Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-tdeq01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations_tn.jpg?raw=true)|**Notes**: This element often contains only a few changes from day to day.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations_tn.jpg?raw=true)|**Notes**: This feature often contains only a few changes from day to day.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png)|Locate internal table(s) using the xml:id(s) `deg-ta-tdeq01`
 Earliest encoded instance: 1905-01-03|Latest encoded instance:
 
@@ -348,7 +348,7 @@ Earliest encoded instance: 1905-01-03|Latest encoded instance:
 
 Variant 1|Example date: 1905-07-15
 ---|---
-element `comingEvents`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml)
+feature `comingEvents`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events_tn.jpg?raw=true)|**Notes**: This calendar changes each day, but most events appear in several issues of the paper. You can move rows of the table in previous and future issues around to save effort.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png)|Locate internal table(s) using the xml:id(s) `deg-ta-coce01`
 Earliest encoded instance: |Latest encoded instance:
@@ -358,7 +358,7 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-cotw01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week_tn.jpg?raw=true)|**Notes**: This element changes only once per week.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week_tn.jpg?raw=true)|**Notes**: This feature changes only once per week.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png)|Locate internal table(s) using the xml:id(s) `deg-ta-cotw01`
 Earliest encoded instance: |Latest encoded instance:
 
@@ -366,7 +366,7 @@ Earliest encoded instance: |Latest encoded instance:
 
 Variant 1|Example date: 1905-07-12
 ---|---
-element `prepaidAdvertisements`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml) (first lines only)
+feature `prepaidAdvertisements`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml) (first lines only)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements_tn.jpg?raw=true)|**Notes**: Add each advertisement as a `<div type="item">` within the section.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png)|
 Earliest encoded instance: |Latest encoded instance:
@@ -376,7 +376,7 @@ Earliest encoded instance: |Latest encoded instance:
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-caet01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate_tn.jpg?raw=true)|**Notes**: This element contains consistent text around changing names and details.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate_tn.jpg?raw=true)|**Notes**: This feature contains consistent text around changing names and details.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png)|
 Earliest encoded instance: |Latest encoded instance:
 
@@ -471,14 +471,14 @@ xml:id `deg-el-egev01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png)|
 Earliest encoded instance: |Latest encoded instance:
 
-## Egyptian Gazette Publishing information
+## Egyptian Gazette masthead
 
 Variant 1|Example date: 1905-07-12
 ---|---
 xml:id `deg-el-egpi01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml)
-![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info_tn.jpg?raw=true)|**Notes**: This element usually comes immediately after the "Subscriptions and Advertisements" element on page 2, though sometimes other material is placed between them.
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info_tn.jpg?raw=true)|**Notes**: This feature usually comes immediately after the "Subscriptions and Advertisements" feature on page 2, though sometimes other material is placed between them.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png)|
-Earliest encoded instance: |Latest encoded instance:
+Earliest encoded instance: 1905-01-02 |Latest encoded instance:
 
 ## Egyptian Gazette Subscriptions and Advertisements
 
@@ -487,7 +487,7 @@ Variant 1|Example date: 1905-07-12
 xml:id `deg-el-egsa01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements_tn.jpg?raw=true)|**Notes**:
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png)|
-Earliest encoded instance: |Latest encoded instance:
+Earliest encoded instance: 1905-01-02 |Latest encoded instance:
 
 Variant 2|Example date: 1905-07-12
 ---|---
@@ -512,14 +512,14 @@ xml:id `deg-el-vmhb02`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum-1906.jpg)|
 Earliest encoded instance: 1906-12-?? |Latest encoded instance: 1907-04-??
 
-# VII Non-templated recurring elements
+# VII Non-templated recurring features
 The content of these items changes completely from issue to issue, so they should be OCRed. They are listed here to show the desired format for optimal search discoverability.
 
 ## Bulletin de la Bourse
 
 Variant 1|Example date: 1905-07-12
 ---|---
-element `bulletinBourse`|No template
+feature `bulletinBourse`|No template
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse_tn.jpg?raw=true)|**Notes**: This text must be OCRed
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse.png)|
 Earliest encoded instance: |Latest encoded instance:
@@ -537,7 +537,7 @@ Earliest encoded instance: |Latest encoded instance:
 
 Variant 1|Example date: 1905-07-12
 ---|---
-element `exportManifests`|[XML Format example](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
+feature `exportManifests`|[XML Format example](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/export-manifests_tn.jpg?raw=true)|**Notes**: This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table. table xml:id `deg-ta-exma01`
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/export-manifests.png)|
 Earliest encoded instance: |Latest encoded instance:
@@ -546,7 +546,7 @@ Earliest encoded instance: |Latest encoded instance:
 
 Variant 1|Example date: 1905-07-12
 ---|---
-element `mouvementMaritime`|No template
+feature `mouvementMaritime`|No template
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime_tn.jpg?raw=true)|**Notes**: This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime.png)|
 Earliest encoded instance: |Latest encoded instance:

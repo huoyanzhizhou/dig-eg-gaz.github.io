@@ -24,7 +24,7 @@ xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### aan01 Anglo-American Nile Steamer & Hotel Coy.
 
-xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan01.xml)|Date: 0000-00-00
+xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan01-Anglo-American-Nile-Steamer-Hotel-Coy_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan01-Anglo-American-Nile-Steamer-Hotel-Coy.png)
 
@@ -72,7 +72,7 @@ xml text: [abp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### abw01 Alexandria Bonded Warehouse Company, Ltd.
 
-xml text: [abw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abw01.xml)|Date: 0000-00-00
+xml text: [abw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abw01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abw01-Alexandria-Bonded-Warehouse-Company-Ltd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abw01-Alexandria-Bonded-Warehouse-Company-Ltd.png)
 
@@ -120,7 +120,7 @@ xml text: [akl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### all01 Anchor Line, Limited
 
-xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml)|Date: 0000-00-00
+xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml)|Date: 1905-07-14
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited.png)
 Destinations, ship names, and dates change.|
@@ -140,7 +140,7 @@ xml text: [alf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### als01 Austrian Lloyd's Steam Navigation
 
-xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als01.xml)|Date: 0000-00-00
+xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als01-Austrian-Lloyds-Steam-Navigation_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als01-Austrian-Lloyds-Steam-Navigation.png)
 Ship dates, names, and captains' names change. Near bottom, destination dates change.|
@@ -185,7 +185,7 @@ xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bal01 Bank of Athens, Limited
 
-xml text: [bal01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal01.xml)|Date: 0000-00-00
+xml text: [bal01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal01-Bank-of-Athens-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal01-Bank-of-Athens-Limited.png)
 
@@ -197,7 +197,7 @@ xml text: [bal02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bam01 Bell's Asia Minor Steamship Co.
 
-xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)|Date: 0000-00-00
+xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co.png)
 
@@ -246,7 +246,7 @@ xml text: [bdc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bis01 British India S. N. Company, Limited
 
-xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis01.xml)|Date: 0000-00-00
+xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis01-British-India-SN-Company-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis01-British-India-SN-Company-Limited.png)
 
@@ -264,7 +264,7 @@ xml text: [blc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### blm01 Bibby Line Mail Steamers
 
-xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml)|Date: 0000-00-00
+xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers.png)
 Ship names, weights, dates change.|
@@ -345,7 +345,7 @@ xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ccc01 The Cleopatra Cigarette Co.
 
-xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)|Date: 0000-00-00
+xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc01-The-Cleopatra-Cigarette-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc01-The-Cleopatra-Cigarette-Co.png)
 
@@ -477,7 +477,7 @@ xml text: [cst02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cun01 Cunard Line
 
-xml text: [cun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun01.xml)|Date: 0000-00-00
+xml text: [cun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun01-Cunard-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun01-Cunard-Line.png)
 
@@ -555,7 +555,7 @@ xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### dll01 Deutsche Levante-Linie
 
-xml text: [dll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll01.xml)|Date: 0000-00-00
+xml text: [dll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll01-Deutsche-Levant-Linie_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll01-Deutsche-Levant-Linie.png)
 Expected at Alexandria ship names, dates, and destinations change.|
@@ -568,7 +568,7 @@ xml text: [dim01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### doa01 Deutsche Ost-Afrika Linie
 
-xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa01.xml)|Date: 0000-00-00
+xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa01-Deutsche Ost-Afrika-Linie_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa01-Deutsche Ost-Afrika-Linie.png)
 
@@ -646,13 +646,13 @@ xml text: [ela01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ell01 Ellerman Lines, Limited
 
-xml text: [ell01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell01.xml)|Date: 0000-00-00
+xml text: [ell01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell01-Ellerman-Lines-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell01-Ellerman-Lines-Limited.png)
 
 ### ell02 The Ellerman Lines, Limited
 
-xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell02.xml)|Date: 0000-00-00
+xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell02.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell02-The-Ellerman-Lines-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell02-The-Ellerman-Lines-Limited.png)
 
@@ -664,9 +664,10 @@ xml text: [ell03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ell04 The Papayanni Line
 
-xml text: [ell04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell04.xml). Dates, ships and destinations in third paragraph vary.|Date: 0000-00-00
+xml text: [ell04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell04.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell04-The-Papayanni-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell04-The-Papayanni-Line.png)
+Dates, ships and destinations in third paragraph vary.|
 
 ### ema01 Egyptian Mining Activity
 
@@ -754,9 +755,10 @@ xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### etc02 The Eastern Telegraph Company, Limited
 
-xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml) (French language)|Date: 0000-00-00
+xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company.png)
+French language|
 
 ### fmh01 Foster, Mason & Harvey
 
@@ -790,7 +792,7 @@ xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### gac01 Guardian Assurance Company Limited
 
-xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)|Date: 0000-00-00
+xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac01-Guardian-Assurance-Company-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac01-Guardian-Assurance-Company-Limited.png)
 
@@ -880,7 +882,7 @@ xml text: [haa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hbc01 Hotel Bristol Cairo
 
-xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc01.xml)|Date: 0000-00-00
+xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc01-Hotel-Bristol-Cairo_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc01-Hotel-Bristol-Cairo.png)
 
@@ -1042,7 +1044,7 @@ xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### iob01 Imperial Ottoman Bank
 
-xml text: [iob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob01.xml)|Date: 0000-00-00
+xml text: [iob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob01-Imperial-Ottoman-Bank_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob01-Imperial-Ottoman-Bank.png)
 
@@ -1060,7 +1062,7 @@ xml text: [ish01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### isr01 International Sleeping and Restaurant Cars Company
 
-xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)|Date: 0000-00-00
+xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr01-International-Sleeping-and-Restaurant-Cars-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr01-International-Sleeping-and-Restaurant-Cars-Company.png)
 
@@ -1156,7 +1158,7 @@ xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### lac01 London Assurance Corporation
 
-xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)|Date: 0000-00-00
+xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation.png)
 
@@ -1264,7 +1266,7 @@ xml text: [mco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mic01 Marine Insurance Company, Limited.
 
-xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mic01.xml)|Date: 0000-00-00
+xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mic01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic01-Marine-Insurance-Company-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic01-Marine-Insurance-Company-Limited.png)
 
@@ -1282,7 +1284,7 @@ xml text: [mil02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mma01 Messageries Maritimes
 
-xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)|Date: 0000-00-00
+xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma01-Messageries-Maritimes_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma01-Messageries-Maritimes.png)
 
@@ -1312,14 +1314,14 @@ xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mss01 The Moss S. S. Company, Ltd.
 
-xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml)|Date: 0000-00-00
+xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss01-The-Moss-SS-Company-Ltd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss01-The-Moss-SS-Company-Ltd.png)
 Dates, destinations, and ship names in 5th and 6th paragraphs from end change.|
 
 ### nbe01 National Bank of Egypt
 
-xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe01.xml)|Date: 0000-00-00
+xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe01-National-Bank-of-Egypt_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe01-National-Bank-of-Egypt.png)
 
@@ -1337,7 +1339,7 @@ xml text: [nbm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ncs01 Nile Cold Storage
 
-xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)|Date: 0000-00-00
+xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage.png)
 
@@ -1355,20 +1357,20 @@ xml text: [nfc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### nfl01 Northern Fire and Life Assurance Coy
 
-xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl01.xml)|Date: 0000-00-00
+xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl01-Northern-Fire-and-Life-Assurance-Coy_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl01-Northern-Fire-and-Life-Assurance-Coy.png)
 
 ### ngi01 Navigation Generale Italienne
 
-xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi01.xml)|Date: 0000-00-00
+xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi01-Navigation-Generale-Italienne_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi01-Navigation-Generale-Italienne.png)
 Changes monthly? Ad in French.|
 
 ### nkh01 New Khedivial Hotel Alexandria
 
-xml text: [nkh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh01.xml)|Date: 0000-00-00
+xml text: [nkh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh01-New-Khedivial-Hotel-Alexandria_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh01-New-Khedivial-Hotel-Alexandria.png)
 
@@ -1386,7 +1388,7 @@ xml text: [nkh03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### nll01 Norddeutscher Lloyd
 
-xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)|Date: 0000-00-00
+xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd.png)
 
@@ -1399,7 +1401,7 @@ Ship names, weights, dates change.|
 
 ### nml01 The National Mutual Life Association of Australasia, Limited
 
-xml text: [nml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml01.xml)|Date: 0000-00-00
+xml text: [nml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml01-The-National-Mutual-Life-Association-of-Australasia-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml01-The-National-Mutual-Life-Association-of-Australasia-Limited.png)
 
@@ -1451,7 +1453,7 @@ xml text: [okl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### opl01 Orient-Pacific Line of Royal Mail Steamers
 
-xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl01.xml)|Date: 0000-00-00
+xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers.png)
 Outwards/homewards ship names and sailing dates change. Variant of orm01.|
@@ -1490,7 +1492,7 @@ xml text: [per01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### phc01 P. Henderson & Co.'s Line.
 
-xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml)|Date: 0000-00-00
+xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line.png)
 Ship names, weights, dates, and destinations change.|
@@ -1510,7 +1512,7 @@ xml text: [plc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pos01 Peninsular and Oriental S.N. Company
 
-xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml)|Date: 0000-00-00
+xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos01-Peninsular-and-Oriental-S-N-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos01-Peninsular-and-Oriental-S-N-Company.png)
 Text of third paragraph and ship names and dates in the table change.|
@@ -1542,7 +1544,7 @@ xml text: [pos05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pri01 Prince Line
 
-xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)|Date: 0000-00-00
+xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png)
 
@@ -1554,7 +1556,7 @@ xml text: [pri02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pss01 Port Said Savoy Hotel
 
-xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss01.xml)|Date: 0000-00-00
+xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss01-Port-Said-Savoy-Hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss01-Port-Said-Savoy-Hotel.png)
 
@@ -1578,7 +1580,7 @@ xml text: [rbi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### rea01 Royal Exchange Assurance
 
-xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea01.xml)|Date: 0000-00-00
+xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea01-Royal-Exchange-Assurance_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea01-Royal-Exchange-Assurance.png)
 
@@ -1644,7 +1646,7 @@ xml text: [scf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### sde01 Sudan Development & Exploration Company, Limited
 
-xml text: [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)|Date: 0000-00-00
+xml text: [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde01-Sudan-Development-Exploration-Company-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde01-Sudan-Development-Exploration-Company-Limited.png)
 
@@ -1656,7 +1658,7 @@ xml text: [sfp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### sgr01 Sudan Government Railways
 
-xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr01.xml)|Date: 0000-00-00
+xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr01-Sudan-Government-Railways_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr01-Sudan-Government-Railways.png)
 
@@ -1704,7 +1706,7 @@ xml text: [shr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### sio01 Sun Insurance Office
 
-xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)|Date: 0000-00-00
+xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio01-Sun-Insurance-Office_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio01-Sun-Insurance-Office.png)
 
@@ -1806,13 +1808,13 @@ xml text: [tas02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### tce01 Telephone Company of Egypt, Limited
 
-xml text: [tce01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce01.xml)|Date: 0000-00-00
+xml text: [tce01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce01-Telephone-Company-of-Egypt-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce01-Telephone-Company-of-Egypt-Limited.png)
 
 ### tcs01 Thos. Cook & Son
 
-xml text: [tcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs01.xml)|Date: 0000-00-00
+xml text: [tcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs01-Thos-Cook-Son_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs01-Thos-Cook-Son.png)
 
