@@ -30,7 +30,7 @@ xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### aan02 Anglo-American Nile Steamer & Hotel Coy.
 
-xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan02.xml)|Date: 0000-00-00
+xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan02.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan02-Anglo-American-Nile-Steamer-Hotel-Coy_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan02-Anglo-American-Nile-Steamer-Hotel-Coy.png)
 
@@ -60,13 +60,13 @@ xml text: [aas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### aaw01 Ariston Aerated Waters
 
-xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)|Date: 0000-00-00
+xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png)
 
 ### abp01 The Artesian Boring and Prospecting Company
 
-xml text: [abp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abp01.xml)|Date: 0000-00-00
+xml text: [abp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abp01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abp01-The-Artesan-Boring-and-Prospecting-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abp01-The-Artesan-Boring-and-Prospecting-Company.png)
 
@@ -78,7 +78,7 @@ xml text: [abw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### adr01 Au de Rouge
 
-xml text: [adr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr01.xml)|Date: 0000-00-00
+xml text: [adr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr01-Au-de-Rouge_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr01-Au-de-Rouge.png)
 
@@ -90,7 +90,7 @@ xml text: [adr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### aeb01 The Anglo-Egyptian Bank
 
-xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb01.xml)|Date: 0000-00-00
+xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb01-The-Anglo-Egyptian-Bank_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb01-The-Anglo-Egyptian-Bank.png)
 
@@ -102,7 +102,7 @@ xml text: [aeb02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### afc01 African Commerce
 
-xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc01.xml)|Date: 0000-00-00
+xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce.png)
 
@@ -179,7 +179,7 @@ xml text: [ass01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### baa01 Boehme & Anderer
 
-xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/baa01.xml)|Date: 0000-00-00
+xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/baa01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/baa01-Boehme-and-Anderer_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/baa01-Boehme-and-Anderer.png)
 
@@ -215,7 +215,7 @@ xml text: [bam03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bcc01 British Chamber of Commerce
 
-xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml)|Date: 0000-00-00
+xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc01-British-Chamber-of-Commerce_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc01-British-Chamber-of-Commerce.png)
 Ship names and dates on lines 6 and 9 change.|
@@ -228,7 +228,7 @@ xml text: [bcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bcp02 Beck & Co
 
-xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp02.xml)|Date: 0000-00-00
+xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp02.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp02-Becks-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp02-Becks-and-Co.png)
 
@@ -297,7 +297,7 @@ xml text: [boe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bor01 Borwick's Baking Powder
 
-xml text: [bor01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor01.xml)|Date: 0000-00-00
+xml text: [bor01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor01.xml)|Date: 1905-07-14
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor01-Borwicks-Baking-Powder_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor01-Borwicks-Baking-Powder.png)
 
@@ -309,7 +309,7 @@ xml text: [bos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### bov01 Bovril
 
-xml text: [bov01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov01.xml)|Date: 0000-00-00
+xml text: [bov01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov01-Bovril_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov01-Bovril.png)
 
@@ -321,13 +321,13 @@ xml text: [bsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cah01 Carlton Hotel
 
-xml text: [cah01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah01.xml)|Date: 0000-00-00
+xml text: [cah01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah01-Carlton-Hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah01-Carlton-Hotel.png)
 
 ### cah02 Carlton Hotel
 
-xml text: [cah02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah02.xml)|Date: 0000-00-00
+xml text: [cah02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah02.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah02-Carlton-Hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah02-Carlton-Hotel.png)
 
@@ -369,7 +369,7 @@ xml text: [cfe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cgg01 Champagne George Goulet
 
-xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)|Date: 0000-00-00
+xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet.png)
 
@@ -399,7 +399,7 @@ xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### clh01 Cigares de la Havane
 
-xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)|Date: 0000-00-00
+xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane.png)
 
@@ -513,7 +513,7 @@ xml text: [dbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### dcl01 DCL Scotch Whisky
 
-xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl01.xml)|Date: 0000-00-00
+xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl01-DCL-Scotch-Whisky_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl01-DCL-Scotch-Whisky.png)
 
@@ -719,7 +719,7 @@ xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### epi01 English Pension, Italian Riviera
 
-xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)|Date: 0000-00-00
+xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera.png)
 
@@ -731,7 +731,7 @@ xml text: [eph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### epm01 English Penmakers
 
-xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)|Date: 0000-00-00
+xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm01-English-Penmakers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm01-English-Penmakers.png)
 
@@ -786,7 +786,7 @@ xml text: [fre02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### fus01 Fussell’s Cream
 
-xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)|Date: 0000-00-00
+xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)|Date: 1905-07-12
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream.png)
 
@@ -816,7 +816,7 @@ xml text: [ggd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ghb01 Grand Hotel Bonnard
 
-xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb01.xml)|Date: 0000-00-00
+xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb01.xml)|Date: 1905-07-12
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb01-Grand-Hotel-Bonnard_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb01-Grand-Hotel-Bonnard.png)
 
@@ -894,7 +894,7 @@ xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hbr01 Hotel Beau-Rivage
 
-xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr01.xml)|Date: 0000-00-00
+xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr01-Hotel-Beau-Rivage_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr01-Hotel-Beau-Rivage.png)
 
@@ -918,7 +918,7 @@ xml text: [hcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hcs01 Hotel-Casino San Stefano
 
-xml text: [hcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs01.xml)|Date: 0000-00-00
+xml text: [hcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs01-Hotel-Casino-San-Stefano_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs01-Hotel-Casino-San-Stefano.png)
 
@@ -928,15 +928,15 @@ xml text: [hct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hct01-high-class-tools_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hct01-high-class-tools.png)
 
-### hdi01 Halls Distemper
+### hdi01 Hall's Distemper
 
-xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi01.xml)|Date: 0000-00-00
+xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi01.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi01-Halls-Distemper_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi01-Halls-Distemper.png)
 
-### hdi02 Halls Distemper
+### hdi02 Hall's Distemper
 
-xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi02.xml)|Date: 0000-00-00
+xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi02.xml)|Date: 1905-07-14
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi02-Halls-Distemper_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi02-Halls-Distemper.png)
 
@@ -954,7 +954,7 @@ xml text: [hem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hdr01 H. D. Rawlings Limited
 
-xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)|Date: 0000-00-00
+xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr01-H-D-Rawlings-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr01-H-D-Rawlings-Limited.png)
 
@@ -963,6 +963,12 @@ xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hjm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hjm01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hjm01-henry-j-monson_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hjm01-henry-j-monson.png)
+
+### hmh01 Hoff's Malt Homax
+
+xml text: [hmh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hmh01.xml)|Date: 0000-00-00
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax.png)
 
 ### hob01 Howies Butter
 
@@ -982,11 +988,11 @@ xml text: [hob03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob03-howies-butter_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob03-howies-butter.png)
 
-### hmh01 Hoff's Malt Homax
+### hom01 Homocea
 
-xml text: [hmh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hmh01.xml)|Date: 0000-00-00
+xml text: [hom01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hom01.xml)|Date: 1905-07-11
 ---|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax.png)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hmh01-hoffs-malt-homax_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hom01-homocea.png)
 
 ### hse01 Hotel Semiramis
 
@@ -996,7 +1002,7 @@ xml text: [hse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hsm01 Howies Sterilized Milk
 
-xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)|Date: 0000-00-00
+xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hsm01-Howies-Sterilized-Milk_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hsm01-Howies-Sterilized-Milk.png)
 
@@ -1012,9 +1018,9 @@ xml text: [hum02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hum02-humber_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hum02-humber.png)
 
-### icc01 Ind Coope Co Ltd.
+### icc01 Ind, Coope & Co. Ltd.
 
-xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc01.xml)|Date: 0000-00-00
+xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc01-Ind-Coope-Co-Ltd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc01-Ind-Coope-Co-Ltd.png)
 
@@ -1080,7 +1086,7 @@ xml text: [jab02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### jbc01 John B Caffari’s Economical Stores
 
-xml text: [jbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc01.xml)|Date: 0000-00-00
+xml text: [jbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc01-John-B-Caffaris-Economical-Stores_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc01-John-B-Caffaris-Economical-Stores.png)
 
@@ -1090,45 +1096,45 @@ xml text: [jco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jco01-joseph-comas_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jco01-joseph-comas.png)
 
-### jes01 Joseph Evans Sons
+### jes01 Joseph Evans & Sons
 
-xml text: [jes01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes01.xml)|Date: 0000-00-00
+xml text: [jes01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jes01-Joseph-Evans-Sons_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jes01-Joseph-Evans-Sons.png)
 
 ### jma01 J. Margosches
 
-xml text: [jma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma01.xml)|Date: 0000-00-00
+xml text: [jma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma01-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma01-J-Margosches.png)
 
 ### jma02 J. Margosches
 
-xml text: [jma02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma02.xml)|Date: 0000-00-00
+xml text: [jma02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma02.xml)|Date: 1905-07-12
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma02-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma02-J-Margosches.png)
 
 ### jma03 J. Margosches
 
-xml text: [jma03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma03.xml)|Date: 0000-00-00
+xml text: [jma03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma03.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma03-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma03-J-Margosches.png)
 
 ### jma04 J. Margosches
 
-xml text: [jma04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma04.xml)|Date: 0000-00-00
+xml text: [jma04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma04.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma04-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma04-J-Margosches.png)
 
 ### jma05 J. Margosches
 
-xml text: [jma05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma05.xml)|Date: 0000-00-00
+xml text: [jma05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma05.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma05-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma05-J-Margosches.png)
 
 ### jma06 J. Margosches
 
-xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma06.xml)|Date: 0000-00-00
+xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma06.xml)|Date: 1905-07-14
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches.png)
 
@@ -1152,7 +1158,7 @@ xml text: [kml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### lar01 Larola
 
-xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lar01.xml)|Date: 0000-00-00
+xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lar01.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lar01-larola_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lar01-larola.png)
 
@@ -1182,7 +1188,7 @@ xml text: [ldl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### lea01 Lea and Perrins'
 
-xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)|Date: 0000-00-00
+xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea01_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea01.png)
 
@@ -1254,13 +1260,13 @@ xml text: [mas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mav01 Magasins Victoria
 
-xml text: [mav01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mav01.xml)|Date: 0000-00-00
+xml text: [mav01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mav01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mav01-Magasins-Victoria_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mav01-Magasins-Victoria.png)
 
 ### mco01 Martell Cognac
 
-xml text: [mco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mco01.xml)|Date: 0000-00-00
+xml text: [mco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mco01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mco01-Martell-Cognac_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mco01-Martell-Cognac.png)
 
@@ -1423,7 +1429,7 @@ xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertiseme
 
 ### nsa01 N. Spathis
 
-xml text: [nsa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa01.xml)|Date: 0000-00-00
+xml text: [nsa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa01-N-Spathis_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa01-N-Spathis.png)
 
@@ -1480,7 +1486,7 @@ xml text: [pdd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pel01 Pelican Brand
 
-xml text: [pel01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel01.xml)|Date: 0000-00-00
+xml text: [pel01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel01-Pelican-Brand_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel01-Pelican-Brand.png)
 
@@ -1592,7 +1598,7 @@ xml text: [rha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ric01 Royal Insurance Coy
 
-xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)|Date: 0000-00-00
+xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric01-Royal-Insurance-Coy_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric01-Royal-Insurance-Coy.png)
 
@@ -1734,9 +1740,9 @@ xml text: [smw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smw01-sandy-macdonald_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smw01-sandy-macdonald.png)
 
-### spa01 Spathis Grill Room
+### spa01 Spathi's Grill Room
 
-xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa01.xml)|Date: 0000-00-00
+xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room.png)
 
@@ -1766,7 +1772,7 @@ xml text: [srg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### ssw01 Siemens Schuckert Werke
 
-xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)|Date: 0000-00-00
+xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png)
 
@@ -1778,13 +1784,13 @@ xml text: [sub01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### sun01 Sunlight
 
-xml text: [sun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun01.xml)|Date: 0000-00-00
+xml text: [sun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun01-Sunlight_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun01-Sunlight.png)
 
 ### sun02 Sunlight
 
-xml text: [sun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun02.xml)|Date: 0000-00-00
+xml text: [sun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun02.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun02-Sunlight_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun02-Sunlight.png)
 
@@ -1842,9 +1848,9 @@ xml text: [tcs05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs05-Thos-Cook-Son_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs05-Thos-Cook-Son.png)
 
-### thc01 Thornes High Class Whiskey
+### thc01 Thorne's High Class Whiskey
 
-xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc01.xml)|Date: 0000-00-00
+xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc01-Thornes-High-Class-Whiskey_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc01-Thornes-High-Class-Whiskey.png)
 
@@ -1880,7 +1886,7 @@ xml text: [tph02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### tsc01 The Seasonable Complaint
 
-xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)|Date: 0000-00-00
+xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint.png)
 
@@ -1928,7 +1934,7 @@ xml text: [vcw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### vdt01 Val de Travers
 
-xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)|Date: 0000-00-00
+xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt01-Val-de-Travers_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt01-Val-de-Travers.png)
 
@@ -1946,7 +1952,7 @@ xml text: [vhb02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### wam01 Walker & Meimarachi
 
-xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)|Date: 1905-01-02
+xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png)
 
@@ -1970,7 +1976,7 @@ xml text: [wha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### whc01 White Horse Cellar
 
-xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc01.xml)|Date: 0000-00-00
+xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar.png)
 
@@ -1994,7 +2000,7 @@ xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### wlb01 Wrexham Lager Beer
 
-xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb01.xml)|Date: 0000-00-00
+xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer.png)
 
