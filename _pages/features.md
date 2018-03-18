@@ -37,7 +37,7 @@ Section Name|feature|Usual page(s)|Frequency|Notes
 **Our Paris Letter** |"parisLetter"|7||
 **Egyptological Notes** |"egyptological"|||
 **Egyptian Share Market / Money and Share Market** |"shareMarket"|3,5|Usually Thursday|contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table. Ends January 1906.
-**Bulletin de la bourse** |"bulletinBourse"|3,4,6||French language
+**The Cotton Market** |"cottonMarket"|4||Kearsley and Cunningham’s Weekly Report
 **Chronique Financiere** |"chroniqueFinanciere"|3,4||French language
 **Circulaire H. de Vries et Boutigny. Notes et Critiques**  |"circulaire"|3,4||French language
 **[Export Manifests](https://dig-eg-gaz.github.io/templates/#export-manifests)** |"exportManifests"|||See [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml) for format

@@ -18,7 +18,7 @@ Every ad template has an XML id embedded in it, following this format: `xml:id="
 
 ### aac01 Allen, Alderson & Co.
 
-xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)|Date: 0000-00-00
+xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png)
 
@@ -222,11 +222,11 @@ Ship names and dates on lines 6 and 9 change.|
 
 ### bcp01 Beck & Co’s Pilsener Beer
 
-xml text: [bcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp01.xml)|Date: 0000-00-00
+xml text: [bcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp01-Beck-and-Cos-Pilsener-Beer_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp01-Beck-and-Cos-Pilsener-Beer.png)
 
-### bcp02 Beck & Co
+### bcp02 Beck & Co’s Pilsener Beer
 
 xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp02.xml)|Date: 1905-07-10
 ---|---
@@ -441,7 +441,7 @@ xml text: [cps01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### crl01 Credit Lyonnais
 
-xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)|Date: 0000-00-00
+xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl01-Credit-Lyonnais_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl01-Credit-Lyonnais.png)
 
@@ -549,7 +549,7 @@ xml text: [dix02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### dlc01 Dr Le Clerc's Pills
 
-xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)|Date: 0000-00-00
+xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc01-dr-le-clercs-pills_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc01-dr-le-clercs-pills.png)
 
@@ -562,7 +562,7 @@ Expected at Alexandria ship names, dates, and destinations change.|
 
 ### dim01 Dinneford's Magnesia
 
-xml text: [dim01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dim01.xml)|Date: 0000-00-00
+xml text: [dim01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dim01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dim01-Dinnefords-Magnesia_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dim01-Dinnefords-Magnesia.png)
 
@@ -592,7 +592,7 @@ xml text: [dpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### edl01 Egyptian Delta Light Railways Co., Limited
 
-xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)|Date: 0000-00-00
+xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png)
 
@@ -774,7 +774,7 @@ xml text: [fpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### fre01 Freskel
 
-xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre01.xml)|Date: 0000-00-00
+xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre01-Freskel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre01-Freskel.png)
 
@@ -1278,7 +1278,7 @@ xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### mil01 Milner's Safes
 
-xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil01.xml)|Date: 0000-00-00
+xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.png)
 
@@ -1423,8 +1423,8 @@ xml text: [nrc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrc01-national-residence-cairo_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrc01-national-residence-cairo.png)
 
-### nrp01 Nouveau Remede Purgatif
-xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp01.xml)
+### nrp01 Nouveau Remede Purgatif (Purgen)
+xml text: [nrp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrp01-Nouveau-Remede-Purgatif_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrp01-Nouveau-Remede-Purgatif.png)
 
 ### nsa01 N. Spathis
@@ -1447,7 +1447,7 @@ xml text: [nvh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### okl01 Orenstein & Koppel Ltd.
 
-xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl01.xml)|Date: 0000-00-00
+xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel.png)
 
@@ -1480,7 +1480,7 @@ Outwards/homewards ship names and sailing dates change. Variant of opl01.|
 
 ### pdd01 Pilules du Docteur Dehaut
 
-xml text: [pdd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd01.xml)|Date: 0000-00-00
+xml text: [pdd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pdd01-pilules-du-docteur-dehaut_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pdd01-pilules-du-docteur-dehaut.png)
 
@@ -1730,7 +1730,7 @@ xml text: [sla02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### smc01 Steineman, Mabardi & Co
 
-xml text: [smc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc01.xml)|Date: 0000-00-00
+xml text: [smc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc01-steineman-mabardi_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc01-steineman-mabardi.png)
 
@@ -1826,7 +1826,7 @@ xml text: [tcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### tcs02 Thos. Cook & Son
 
-xml text: [tcs02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs02.xml)|Date: 0000-00-00
+xml text: [tcs02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs02.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs02-Thos-Cook-and-Son_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs02-Thos-Cook-and-Son.png)
 
@@ -1994,7 +1994,7 @@ xml text: [who01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### whr01 Windsor Hotel Restaurant
 
-xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whr01.xml)|Date: 0000-00-00
+xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whr01.xml)|Date: 1905-07-10
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whr01-Windsor-Hotel-Restaurant_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whr01-Windsor-Hotel-Restaurant.png)
 
