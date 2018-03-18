@@ -888,7 +888,7 @@ xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### hbh01 Hall’s Boar’s Head
 
-xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbh01.xml)|Date: 0000-00-00
+xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbh01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh01-Halls-Boars-Head_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh01-Halls-Boars-Head.png)
 
@@ -1718,7 +1718,7 @@ xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### sla01 Standard Life Assurance Company
 
-xml text: [sla01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla01.xml)|Date: 0000-00-00
+xml text: [sla01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla01-Standard-Life-Assurance-Company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla01-Standard-Life-Assurance-Company.png)
 
@@ -1802,7 +1802,7 @@ xml text: [sun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### tas01 T. A. Spartali & Co.
 
-xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/as01.xml)|Date: 0000-00-00
+xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/as01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas01-T-A-Spartali-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas01-T-A-Spartali-Co.png)
 

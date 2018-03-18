@@ -421,6 +421,15 @@ xml:id `deg-el-nile01`|[XML Template](https://github.com/dig-eg-gaz/boilerplates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nile-gauge-readings.png)|
 Earliest encoded instance: |Latest encoded instance:
 
+## Société Internationale des Employés d'Alexandrie Bureau de Placement
+
+Variant 1|Example date: 1905-07-15
+---|---
+feature `bureauPlacement`|[XML Template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/societe-internationale-des-employes.xml) (first lines only)
+![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/societe-internationale-des-employes_tn.jpg?raw=true)|**Notes**: Add each advertisement as a `<p>` within its section.
+[Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/societe-internationale-des-employes.png)|
+Earliest encoded instance: |Latest encoded instance:
+
 ## Weekly Postal Table
 (produced by John White)
 
@@ -526,9 +535,9 @@ Earliest encoded instance: |Latest encoded instance:
 
 ## Claims against the Estate
 
-Variant 1|Example date:
+Variant 1|Example date: 1905-07-11
 ---|---
-xml:id `deg-el-caet01`|[XML Format example](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)
+feature `claimsEstate`|[XML Format example](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)
 ![Thumbnail](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate_tn.jpg?raw=true)|**Notes**: Change name, rank, post, and dates
 [Full size image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png)|
 Earliest encoded instance: |Latest encoded instance:
