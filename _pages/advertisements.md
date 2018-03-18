@@ -339,7 +339,7 @@ xml text: [cah03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cbb01 Callard & Bowser's Butter-Scotch
 
-xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb01.xml)|Date: 0000-00-00
+xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch.png)
 
@@ -393,7 +393,7 @@ xml text: [che01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### chl01 Chlorodyne
 
-xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl01.xml)|Date: 0000-00-00
+xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/chl01-Chlorodyne_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/chl01-Chlorodyne.png)
 
@@ -846,7 +846,7 @@ xml text: [ghn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### gmc01 G. Marcus & Co.
 
-xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)|Date: 0000-00-00
+xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co.png)
 
@@ -1044,7 +1044,7 @@ xml text: [ind01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### inv01 "Investments"
 
-xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)|Date: 0000-00-00
+xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv01-investments_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv01-investments.png)
 
@@ -1174,6 +1174,18 @@ xml text: [lau01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lau01-laurens-cigarettes_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lau01-laurens-cigarettes.png)
 
+### lax01 The Seasonable Complaint (Laxatine)
+
+xml text: [lax01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lax01.xml)|Date: 1905-07-11
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lax01-The-Seasonable-Complaint_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lax01-The-Seasonable-Complaint.png)
+
+### lax02 When is Duty a Pleasure? (Laxatine)
+
+xml text: [lax02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lax02.xml)|Date: 1905-07-15
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lax02-laxatine_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lax02-laxatine.png)
+
 ### ldb01 Les Diamants Bera
 
 xml text: [ldb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ldb01.xml)|Date: 0000-00-00
@@ -1248,7 +1260,7 @@ xml text: [luc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### map01 Maple & Co.
 
-xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)|Date: 0000-00-00
+xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map01-Maple-and-Co_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map01-Maple-and-Co.png)
 
@@ -1314,7 +1326,7 @@ xml text: [mol01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### msp01 McLaren's Steam Ploughs
 
-xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)|Date: 0000-00-00
+xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/msp01-mclarens-steam-ploughs_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/msp01-mclarens-steam-ploughs.png)
 
@@ -1568,7 +1580,7 @@ xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### pwl01 Papier Wlinsi
 
-xml text: [pwl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl01.xml)|Date: 0000-00-00
+xml text: [pwl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl01-Papier-Wlinsi_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl01-Papier-Wlinsi.png)
 
@@ -1883,12 +1895,6 @@ xml text: [tph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [tph02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tph02.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph02-tewfik-palace-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tph02-tewfik-palace-hotel.png)
-
-### tsc01 The Seasonable Complaint
-
-xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)|Date: 1905-07-11
----|---
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint.png)
 
 ### tss01 Thomas & Sons
 
