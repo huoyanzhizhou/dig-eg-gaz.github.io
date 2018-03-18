@@ -77,8 +77,8 @@ For example:
 - Return all datelines contained in a "wireReport" div type: `//div[@type="wireReport"]/parent::div//dateline`
 - Return all placeNames in wireReports: `//div[@type="wireReport"]/parent::div//dateline//placeName`
 
-### Search using xml:id
-Many ads, templates, and sections have `xml:id`s embedded in them. These are meant to simplify your search. For elements, use `//div[@xml:id="deg-el-cppa01"]`. For tables, use `//table[@xml:id="deg-ta-cppa01"]`.
+### Search using xml:id or feature
+Many ads, templates, and sections have `xml:id` or `feature` tags embedded in them. These are meant to simplify your search. For features, use `//div[@feature="shippingMovements"]`. For tables, use `//table[@xml:id="deg-ta-cppa01"]`.
 
 ## 4. Working with tables
 Tables are a powerful part of the XML-encoded *Egyptian Gazette*. XPath gives us tools to return precise parts of the information these tables contain. For example:

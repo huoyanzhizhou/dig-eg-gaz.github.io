@@ -55,8 +55,8 @@ Once you add these tags to your page, you might have a valid document (an thus a
 - **>** or **<**: the OCR process produces stray angle brackets. The editor thinks these are part of a xml tag, and it causes an error.
 - anything else not in a `<div>`, and not in a `<p>` or a `<head>`.
 
-## 4. Add element attributes
-There are many recurring elements that show up issue after issue: local news, international news, sports, and many more. It is important to mark these using the element attribute, so that we can find them in XPath searches. The complete list of elements is [here](https://dig-eg-gaz.github.io/elements/). To add an element attribute, place it within the `<div>` tag, after the `type="item"` attribute.
+## 4. Add feature attributes
+There are many recurring features that show up issue after issue: local news, international news, sports, and many more. It is important to mark these using the feature attribute, so that we can find them in XPath searches. The complete list of features is [here](https://dig-eg-gaz.github.io/features/). To add an feature attribute, place it within the `<div>` tag, after the `type="item"` attribute.
 
 ## 5. Add more complex structural tags
 There are more tags that you can add:
