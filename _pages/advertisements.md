@@ -134,7 +134,7 @@ Destinations, ship names, and dates change.|
 
 ### alf01 Allenburys Foods
 
-xml text: [alf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/alf01.xml)|Date: 0000-00-00
+xml text: [alf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/alf01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/alf01-allenburys-foods_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/alf01-allenburys-foods.png)
 
@@ -167,7 +167,7 @@ xml text: [ams01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### api01 Apiol
 
-xml text: [api01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/api01.xml)|Date: 0000-00-00
+xml text: [api01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/api01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/api01-apiol_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/api01-apiol.png)
 
@@ -1138,6 +1138,12 @@ xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches.png)
 
+### jpr01 Jumelles à Prismes de Ross
+
+xml text: [jpr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jpr01.xml)|Date: 1905-07-15
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jpr01-jumelles-prismes-ross_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jpr01-jumelles-prismes-ross.png)
+
 ### kbs01 Kupper's Beer
 
 xml text: [kbs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kbs01.xml)|Date: 0000-00-00
@@ -1212,7 +1218,7 @@ xml text: [lem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### lgo01 Ladies & Gents Outfitting (S. Stein)
 
-xml text: [lgo01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)|Date: 0000-00-00
+xml text: [lgo01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting.png)
 
@@ -1868,7 +1874,7 @@ xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### the01 Therapion
 
-xml text: [the01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the01.xml)|Date: 0000-00-00
+xml text: [the01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the01.xml)|Date: 1905-07-15
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the01-Therapion_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the01-Therapion.png)
 
