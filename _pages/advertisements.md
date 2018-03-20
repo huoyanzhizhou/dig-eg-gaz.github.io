@@ -465,7 +465,7 @@ xml text: [csr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cst01 Cairo Sewage Transport Co.
 
-xml text: [cst01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst01.xml)|Date: 0000-00-00
+xml text: [cst01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst01.xml)|Date: 1905-07-11
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst01-Cairo-Sewage-Transport_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst01-Cairo-Sewage-Transport.png)
 
@@ -891,6 +891,12 @@ xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbh01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh01-Halls-Boars-Head_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh01-Halls-Boars-Head.png)
+
+### har01 S. & H. Harris'
+
+xml text: [har01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/har01.xml)|Date: 1905-07-11
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/har01-s-h-harris_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/har01-s-h-harris.png)
 
 ### hbr01 Hotel Beau-Rivage
 

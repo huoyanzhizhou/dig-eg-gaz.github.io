@@ -24,13 +24,13 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 42|October 15, 1906|October 20, 1906|[Kailen Chapple](https://github.com/wavyncurly)|18|1||
 43|October 22, 1906|October 27, 1906|[Gavin Clark](https://github.com/gavinclark30)|24|||
 44|October 29, 1906|November 3, 1906|[Gillian D'Onofrio](https://github.com/gillidonof)||||
-46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/mike-ebert)|20|||
+46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/mike-ebert)|34|||
 47|November 19, 1906|November 24, 1906|[Adrian Ell](https://github.com/are17)||||
 48|November 26, 1906|December 1, 1906|[Hailey Ensor](https://github.com/haileyensor)|All|||
-50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|24|||
+50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|38|||
 1|December 31, 1906|January 5, 1907|[Kevin Hernandez](https://github.com/kevnandez)||||
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)|8|||
-4|January 21, 1907|January 26, 1907|[Ryan Jones](https://github.com/Ryan-Jones994)|24|||
+4|January 21, 1907|January 26, 1907|[Ryan Jones](https://github.com/Ryan-Jones994)|40|||
 5|January 28, 1907|February 2, 1907|[Chloe Majonica](https://github.com/chloeelise)|24|1||
 6|February 4, 1907|February 9, 1907|[Sophia Metallo](https://github.com/SophiaElizabeth)|2|||
 7|February 11, 1907|February 16, 1907|[Kelsey Meyer](https://github.com/km16h)||||
@@ -38,7 +38,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 9|February 25, 1907|March 2, 1907|[Kevin Ooten](https://github.com/kmooten)||||
 11|March 11, 1907|March 16, 1907|[Carter Pfost](https://github.com/44Silver4)||||
 12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/FlameWo)||||
-13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/gporter1)||||
+13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/gporter1)|1|||
 14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|20|2|9|
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)|All|1||
 16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)|3|||
