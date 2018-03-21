@@ -343,6 +343,12 @@ xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch.png)
 
+### cbr01 C. Brandauer & Co.
+
+xml text: [cbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbr01.xml)|Date: 1905-07-14
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cb01-Callard-Bowser-Butter-scotch_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbr01-c-brandauer.png)
+
 ### ccc01 The Cleopatra Cigarette Co.
 
 xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)|Date: 1905-07-10
@@ -1634,7 +1640,7 @@ xml text: [rlj01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### rob01 Robinson's Barley
 
-xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rob01.xml)|Date: 0000-00-00
+xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rob01.xml)|Date: 1905-07-12
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rob01-robinsons-barley_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rob01-robinsons-barley.png)
 
@@ -2009,6 +2015,12 @@ xml text: [whc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [who01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/who01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/who01-windsor-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/who01-windsor-hotel.png)
+
+### who02 Windsor Hotel
+
+xml text: [who02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/who02.xml)|Date: 1905-07-12
+---|---
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/who02-windsor-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/who02-windsor-hotel.png)
 
 ### whr01 Windsor Hotel Restaurant
 
