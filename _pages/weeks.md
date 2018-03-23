@@ -32,7 +32,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)|8|||
 4|January 21, 1907|January 26, 1907|[Ryan Jones](https://github.com/Ryan-Jones994)|40|||
 5|January 28, 1907|February 2, 1907|[Chloe Majonica](https://github.com/chloeelise)|24|1||
-6|February 4, 1907|February 9, 1907|[Sophia Metallo](https://github.com/SophiaElizabeth)|2|||
+6|February 4, 1907|February 9, 1907|[Sophia Metallo](https://github.com/SophiaElizabeth)|32|||
 7|February 11, 1907|February 16, 1907|[Kelsey Meyer](https://github.com/km16h)||||
 8|February 18, 1907|February 23, 1907|[Faith Northcutt](https://github.com/fnorthcutt)|16|||
 9|February 25, 1907|March 2, 1907|[Kevin Ooten](https://github.com/kmooten)||||

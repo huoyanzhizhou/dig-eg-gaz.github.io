@@ -755,16 +755,18 @@ xml text: [esr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### etc01 The Eastern Telegraph Company, Limited
 
-xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)|Date: 0000-00-00
+xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph.png)
+paste as cell in nameplate table|
+
 
 ### etc02 The Eastern Telegraph Company, Limited
 
-xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml)|Date: 0000-00-00
+xml text: [etc02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc02.xml)|Date: 1905-01-02
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc02-eastern-telegraph-company.png)
-French language|
+paste as cell in nameplate table. French language|
 
 ### fmh01 Foster, Mason & Harvey
 
@@ -1269,6 +1271,7 @@ xml text: [lse01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lsh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lsh01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lsh01-london-salisbury-hotel_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lsh01-london-salisbury-hotel.png)
+paste as cell in nameplate table|
 
 ### luc01 Law Union & Crown Insurance Co.
 
@@ -1427,6 +1430,7 @@ xml text: [nkh03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)|Date: 1905-07-13
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd.png)
+paste as cell in nameplate table|
 
 ### nll02 Norddeutscher Lloyd
 
@@ -1691,6 +1695,7 @@ xml text: [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [sfp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sfp01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sfp01-swan-fountain-pen_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sfp01-swan-fountain-pen.png)
+paste as cell in nameplate table|
 
 ### sgr01 Sudan Government Railways
 
@@ -1991,6 +1996,7 @@ xml text: [wam02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [wbl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wbl01.xml)|Date: 0000-00-00
 ---|---
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wbl01-waterlow-bros-layton_tn.jpg?raw=true)|[Full size image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wbl01-waterlow-bros-layton.png)
+paste as cell in nameplate table|
 
 ### wha01 W. H. Allen
 
