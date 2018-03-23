@@ -22,7 +22,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|18|
 41|October 8, 1906|October 13, 1906|[Leyna Castro](https://github.com/ley06)||1||
 42|October 15, 1906|October 20, 1906|[Kailen Chapple](https://github.com/wavyncurly)|18|1||
-43|October 22, 1906|October 27, 1906|[Gavin Clark](https://github.com/gavinclark30)|24|||
+43|October 22, 1906|October 27, 1906|[Gavin Clark](https://github.com/gavinclark30)|30|||
 44|October 29, 1906|November 3, 1906|[Gillian D'Onofrio](https://github.com/gillidonof)||||
 46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/mike-ebert)|34|||
 47|November 19, 1906|November 24, 1906|[Adrian Ell](https://github.com/are17)||||
@@ -45,7 +45,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/Claudia5)|3|||
 19|May 6, 1907|May 11, 1907|[Spencer Smith](https://github.com/spencer-R-smith)||||
 20|May 13, 1907|May 18, 1907|[Sami Squires](https://github.com/samisquires)|6|||
-21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)|18|1||
+21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)|20|1||
 24|June 10, 1907|June 15, 1907|[Alex Aguila](https://github.com/alexis11224)||||
 25|June 17, 1907|June 22, 1907|[Alison DeGroat](https://github.com/laneydegroat)|26|||
 26|June 24, 1907|June 29, 1907|[Tiffany Medina](https://github.com/tdm16g)|12|||

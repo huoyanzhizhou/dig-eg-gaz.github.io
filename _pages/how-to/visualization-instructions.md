@@ -16,18 +16,14 @@ Tableau is a powerful tool that can be used to view, manipulate, explore, and an
 {:toc}
 </div>
 
-## Installation:
-1. Your FSU emails allow you free access to Tableau’s full Desktop suite,
-download here: (https://www.tableau.com/academic)
+## Installation
+1. Your FSU emails allow you free access to Tableau’s full Desktop suite. Navigate to [this page](https://www.tableau.com/academic/students) and its instructions to download your copy of Tableau. **Be sure to use your FSU email address**.
 
-2. At the bottom of the page click “Students” and then follow the steps on the
-next page to download your copy of Tableau. **Be sure to use your FSU email address**.
+2. You will receive a download link via email. Download Tableau and follow installation instructions.
 
-3. You will receive a download link via email. Download Tableau and follow installation instructions.
+3. After downloading and installing the software, you can follow [video tutorials](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html) to get up to speed with more advanced functions. But for now, let's look at some simple examples using data from the digital Egyptian Gazette.
 
-4. After downloading and installing the software, you can follow [video tutorials](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html) to get up to speed with more advanced functions. But for now, let's look at some simple examples using data from the digital Egyptian Gazette.
-
-## Walkthrough:
+## Walkthrough
 1. First, let's gather data to explore in Tableau. This data comes from the [Coton](https://dig-eg-gaz.github.io/templates/#coton) table, which appears regularly in the financial news section of the Egyptian Gazette.
 
 2. Using this query: `//table[@xml:id="deg-ta-cotn01"]//cell[contains(.,'balles')]/following-sibling::cell[1]`, returns the number of bales of cotton exported. Right click on the results and save to a temporary file.
@@ -69,5 +65,5 @@ The resulting visual gives us an annual total of exports, but we can go deeper.
 
 15. To save our visualizations, click “Story”, “New Story”. Drag the desired sheet to the designated location. Click “Story”, “Export Image”.
 
-## Conclusion:
+## Conclusion
 Tableau is great for creating visualisations from your data, but it also is useful for data exploration. When we create data visualisations it is important to remember to keep graphics simple and self-explanatory. For independent data exploration, however, we can try simple as well as complex approaches. Experiment with your data in the software to not only create graphics, but to see how different visualisations help you think about your research.
