@@ -27,7 +27,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/mike-ebert)|34|||
 47|November 19, 1906|November 24, 1906|[Adrian Ell](https://github.com/are17)||||
 48|November 26, 1906|December 1, 1906|[Hailey Ensor](https://github.com/haileyensor)|All|||
-50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|38|||
+50|December 10, 1906|December 15, 1906|[Alexis Fitzpatrick](https://github.com/AlexisFitz)|All|||
 1|December 31, 1906|January 5, 1907|[Kevin Hernandez](https://github.com/kevnandez)||||
 2|January 7, 1907|January 12, 1907|[Adam Hutson](https://github.com/aah16c)|8|||
 4|January 21, 1907|January 26, 1907|[Ryan Jones](https://github.com/Ryan-Jones994)|40|||
@@ -47,7 +47,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 20|May 13, 1907|May 18, 1907|[Sami Squires](https://github.com/samisquires)|6|||
 21|May 20, 1907|May 25, 1907|[Thomas Wallace](https://github.com/tjw16f)|20|1||
 24|June 10, 1907|June 15, 1907|[Alex Aguila](https://github.com/alexis11224)||||
-25|June 17, 1907|June 22, 1907|[Alison DeGroat](https://github.com/laneydegroat)|26|||
+25|June 17, 1907|June 22, 1907|[Alison DeGroat](https://github.com/laneydegroat)|All|5||
 26|June 24, 1907|June 29, 1907|[Tiffany Medina](https://github.com/tdm16g)|12|||
 27|July 1, 1907|July 6, 1907|[Hannah Frady](https://github.com/hcf16b)|6|||
 28|July 8, 1907|July 13, 1907|[Patrick Mason](https://github.com/patrickmason8)||||
