@@ -17,6 +17,14 @@ Regular expressions (regex) is a very useful means of working with serial data w
 {:toc}
 </div>
 
+## Using regex in Oxygen
+
+You can use regex in the Find/Repace in Files tool when you enable the Regular Expression option in it. 
+Some examples of commonly used regex codes:
+- Search `\d+ \w+ \w+ ` for patterns like "100 tons cotton"
+- Search `\W\w+ \W\w+ ` for personal names
+- Search `at [A-Z]\w+ ` for locations (Remember to enable Case Sensitive)
+
 ## Using regex in Atom
 
 To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+,` replace with `<persName>$&</persName>`.
