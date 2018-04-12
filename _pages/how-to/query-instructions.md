@@ -107,6 +107,10 @@ The possibilities are endless. Here are some samples.
 ### Item length
 - Find all paragraphs longer than 5000 characters: `//p[string-length() > 5000]`
 
+### Exclude Section/div/Page
+
+- Search all the divs after Page 1: `//div[not(descendant::div[@n="1"]) and not(ancestor-or-self::div[@n="1"])]`
+
 ## 6. Searching with regular expressions
 It is possible to combine regular expression and XPath searches by using the find/replace menu. Enter the regular expression you wish to search for in the Find box, and the XPath location in which you wish to search in the XPath box. <!--- explain further --->
 
