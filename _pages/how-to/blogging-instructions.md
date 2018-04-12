@@ -7,6 +7,12 @@ header:
   image_fullwidth: masthead.jpg
 ---
 
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ## 1. Fork the repository
 
@@ -14,7 +20,7 @@ Fork a copy of the organization [blog-posts](https://github.com/dig-eg-gaz/blog-
 
 ## 2. Name your post
 
-Paste this [default text](https://raw.githubusercontent.com/dig-eg-gaz/blog-posts/master/2016-00-00-post-name.md) into a text editor (such as Atom) and save it with a unique name following this format: `2016-09-01-yourlastname-post-name.md`. Plug in today's date and a distinctive name for your post.
+Paste this [default text](https://raw.githubusercontent.com/dig-eg-gaz/blog-posts/master/YYYY-MM-DD-post-name.md) into a text editor (such as Atom) and save it with a unique name following this format: `2016-09-01-yourlastname-post-name.md`. Plug in today's date and a distinctive name for your post.
 
 ## 3. Fill in the header
 

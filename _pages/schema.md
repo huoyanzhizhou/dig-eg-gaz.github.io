@@ -23,7 +23,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - wireReport: a single wire report with a `<dateline>` and the name of the wireservice (typically Reuters or Havas)
 - advert: any advertisement; templates are listed [here](https://dig-eg-gaz.github.io/advertisements)
 
-### Element
+### Feature
 - weather: Daily Weather Report
 - wire: Telegrams
 - local: Local and General
@@ -111,7 +111,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - currency
 
 ### Type
-- indexNo: number corresponding to indexing system for newspaper elements, especially paid advertisements
+- indexNo: number corresponding to indexing system for newspaper features, especially paid advertisements
 
 ## Columns
 - cols: Specifies the number of columns in a given section
